@@ -1,4 +1,5 @@
 # Spotify Playlist Exporter
+<img width="880" height="593" alt="Screenshot 2025-11-19 at 9 16 16 PM" src="https://github.com/user-attachments/assets/057100b9-ddba-4251-aee2-a10ea1c808fe" />
 
 The Spotify Playlist Exporter is a Python project designed to automate the fetching, storage, and export of Spotify playlist data for analysis, backup, or migration. It seamlessly integrates with the Spotify Web API, collects essential song metadata and track IDs, stores everything in a SQLite database, and exports your data to CSV files for use in data analysis tools or personal archives.
 
