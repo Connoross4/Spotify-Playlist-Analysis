@@ -1,0 +1,185 @@
+import os
+import spotipy
+from spotipy.oauth2 import SpotifyClientCredentials
+import sqlite3
+from urllib.parse import urlparse, parse_qs
+
+# Set up Spotify API credentials
+client_id = '6b97bdc159cb452a82b473766ef502b1'
+client_secret = 'e629aa8233ad49398d78840e0ecb43b2'
+
+# Initialize Spotify client
+client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)
+sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
+
+def create_database():
+    """Create a SQLite database and return the connection."""
+    conn = sqlite3.connect('spotify_playlist.db')
+    cursor = conn.cursor()
+    
+    # Create songs table
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS songs (
+            id TEXT PRIMARY KEY,
+            name TEXT,
+            artist TEXT,
+            album TEXT,
+            release_date TEXT,
+            duration_ms INTEGER,
+            popularity INTEGER
+        )
+    ''')
+    
+    # Create audio_features table
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS audio_features (
+            track_id TEXT PRIMARY KEY,
+            danceability REAL,
+            energy REAL,
+            key INTEGER,
+            loudness REAL,
+            mode INTEGER,
+            speechiness REAL,
+            acousticness REAL,
+            instrumentalness REAL,
+            liveness REAL,
+            valence REAL,
+            tempo REAL,
+            time_signature INTEGER
+        )
+    ''')
+    
+    conn.commit()  # Commit changes
+    return conn
+
+
+def insert_song(conn, song_info):
+    """Insert song information into the database."""
+    cursor = conn.cursor()
+    cursor.execute('''
+        INSERT INTO songs (id, name, artist, album, release_date, duration_ms, popularity)
+        VALUES (?, ?, ?, ?, ?, ?, ?)
+    ''', song_info)
+    conn.commit()
+
+def insert_audio_features(conn, feature_values):
+    """Insert audio features into the database."""
+    cursor = conn.cursor()
+    cursor.execute('''
+        INSERT INTO audio_features (track_id, danceability, energy, key, loudness,
+                                    mode, speechiness, acousticness, instrumentalness,
+                                    liveness, valence, tempo, time_signature)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    ''', feature_values)
+    conn.commit()
+
+def extract_playlist_id(playlist_url):
+    """Extract playlist ID from Spotify playlist URL."""
+    parsed_url = urlparse(playlist_url)
+    if parsed_url.hostname in ['open.spotify.com', 'play.spotify.com']:
+        path_segments = parsed_url.path.split('/')
+        if 'playlist' in path_segments:
+            return path_segments[path_segments.index('playlist') + 1]
+    return None
+
+def get_playlist_tracks(playlist_id):
+    """Retrieve all tracks from a Spotify playlist."""
+    try:
+        results = sp.playlist_tracks(playlist_id)
+        if results is None:
+            print("Error: Unable to fetch playlist tracks. The API returned None.")
+            return None
+        tracks = results['items']
+        while results['next']:
+            results = sp.next(results)
+            if results is None:
+                print("Error: Unable to fetch next page of tracks. The API returned None.")
+                break
+            tracks.extend(results['items'])
+        return tracks
+    except spotipy.exceptions.SpotifyException as e:
+        print(f"Spotify API error: {e}")
+        return None
+    except Exception as e:
+        print(f"Unexpected error in get_playlist_tracks: {e}")
+        return None
+
+def get_audio_features(track_id):
+    """Retrieve audio features for a track."""
+    try:
+        features = sp.audio_features(track_id)
+        if features is None or len(features) == 0:
+            print(f"Error: Unable to fetch audio features for track {track_id}")
+            return None
+        return features[0]
+    except spotipy.exceptions.SpotifyException as e:
+        print(f"Spotify API error when fetching audio features: {e}")
+        return None
+    except Exception as e:
+        print(f"Unexpected error in get_audio_features: {e}")
+        return None
+
+# ... (other functions remain the same)
+
+def main():
+    playlist_url = input("Please enter the Spotify playlist URL: ")
+    playlist_id = extract_playlist_id(playlist_url)
+    
+    if not playlist_id:
+        print("Invalid Spotify playlist URL. Please make sure you've entered the correct URL.")
+        return
+
+    print(f"Fetching tracks for playlist ID: {playlist_id}")
+    tracks = get_playlist_tracks(playlist_id)
+    
+    if not tracks:
+        print("Unable to fetch tracks. Please check your playlist URL and try again.")
+        return
+
+    conn = create_database()
+
+    for item in tracks:
+        if item is None or 'track' not in item:
+            print("Skipping an invalid track item")
+            continue
+        
+        track = item['track']
+        if track is None:
+            print("Skipping a None track")
+            continue
+        
+        # Basic track info
+        track_id = track.get('id')
+        if not track_id:
+            print("Skipping a track without an ID")
+            continue
+        
+        name = track.get('name', 'Unknown Name')
+        artist = track['artists'][0]['name'] if track.get('artists') else 'Unknown Artist'
+        album = track['album']['name'] if track.get('album') else 'Unknown Album'
+        release_date = track['album']['release_date'] if track.get('album') else 'Unknown Date'
+        duration_ms = track.get('duration_ms', 0)
+        popularity = track.get('popularity', 0)
+
+        # Insert song info
+        song_info = (track_id, name, artist, album, release_date, duration_ms, popularity)
+        insert_song(conn, song_info)
+
+        # Get and insert audio features
+        audio_features = get_audio_features(track_id)
+        if audio_features:
+            feature_values = (
+                track_id, audio_features.get('danceability', 0), audio_features.get('energy', 0),
+                audio_features.get('key', 0), audio_features.get('loudness', 0), audio_features.get('mode', 0),
+                audio_features.get('speechiness', 0), audio_features.get('acousticness', 0),
+                audio_features.get('instrumentalness', 0), audio_features.get('liveness', 0),
+                audio_features.get('valence', 0), audio_features.get('tempo', 0),
+                audio_features.get('time_signature', 0)
+            )
+            insert_audio_features(conn, feature_values)
+
+    conn.close()
+    print(f"Playlist data has been successfully stored in the database.")
+
+if __name__ == "__main__":
+    main()

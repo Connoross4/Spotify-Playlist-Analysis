@@ -1,0 +1,192 @@
+﻿id,name,artist,album,release_date,duration_ms,popularity,track_id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,cluster_label,split,would_add_to_playlist
+5O2P9iiztwhomNh8xkR9lJ,Night Changes,One Direction,FOUR (Deluxe),11/17/14,226600,86,5O2P9iiztwhomNh8xkR9lJ,0.672,0.52,8,-7.747,1,0.0353,0.859,0,0.115,0.37,120.001,4,2,train,1
+32lm3769IRfcnrQV11LO4E,Bailando - Spanish Version,Enrique Iglesias,SEX AND LOVE (Deluxe),1/1/14,243413,66,32lm3769IRfcnrQV11LO4E,0.723,0.777,7,-3.503,1,0.108,0.0426,3.68e-06,0.0451,0.961,91.017,4,3,train,1
+0Kt035u0yJBkOnM1BYPpI6,Culpa al Coraz√≥n,Prince Royce,FIVE (Deluxe Edition),2/24/17,222080,54,0Kt035u0yJBkOnM1BYPpI6,0.839,0.649,0,-6.121,1,0.0372,0.465,0,0.0973,0.904,122.99,4,3,train,0
+4IACOiO4fczuCkYFdYxDGu,Six Degrees of Separation,The Script,#3,9/10/12,232253,40,4IACOiO4fczuCkYFdYxDGu,0.517,0.828,4,-4.223,1,0.0493,0.156,0,0.901,0.516,147.956,4,3,train,1
+5tgyHc2LLF0BI2udBTMFJz,The Burning Bush,Hans Zimmer,The Prince Of Egypt (Music From The Original Motion Picture Soundtrack),2/11/98,436666,47,5tgyHc2LLF0BI2udBTMFJz,0.0912,0.0583,9,-24.011,0,0.0382,0.848,0.877,0.117,0.0367,86.432,5,5,train,0
+3hhbDnFUb2bicI2df6VurK,River,Leon Bridges,Coming Home (Deluxe),6/23/15,240200,72,3hhbDnFUb2bicI2df6VurK,0.635,0.184,8,-10.785,1,0.0456,0.665,0,0.146,0.177,128.424,4,2,train,1
+1zU8j1x3yi9xalMF96pzKp,Dear John (Taylor's Version),Taylor Swift,Speak Now (Taylor's Version),7/7/23,405906,67,1zU8j1x3yi9xalMF96pzKp,0.379,0.468,4,-5.07,1,0.0298,0.0327,0,0.158,0.115,119.447,3,2,train,0
+5odlY52u43F5BjByhxg7wg,golden hour,JVKE,this is what ____ feels like (Vol. 1-4),9/23/22,209259,77,5odlY52u43F5BjByhxg7wg,0.515,0.593,4,-4.801,1,0.0322,0.653,0.162,0.25,0.153,94.467,3,0,train,0
+3MytWN8L7shNYzGl4tAKRp,Sparks Fly (Taylor‚Äôs Version),Taylor Swift,Speak Now (Taylor's Version),7/7/23,261230,69,3MytWN8L7shNYzGl4tAKRp,0.605,0.769,5,-2.413,1,0.032,0.0241,0,0.0936,0.366,114.921,4,3,train,0
+1LNrPxRlSkIROZIZ4ldKoH,Deep Breaths,Austin Farwell,Deep Breaths,3/8/22,138905,52,1LNrPxRlSkIROZIZ4ldKoH,0.295,0.0433,4,-25.464,1,0.0373,0.976,0.905,0.0992,0.0523,137.592,4,5,train,0
+5Ir3dOzPQ9Q30dC45J6QzH,save your breath,JVKE,this is what ____ feels like (Vol. 1-4),9/23/22,165964,48,5Ir3dOzPQ9Q30dC45J6QzH,0.483,0.491,2,-5.389,1,0.0694,0.695,0.000555,0.128,0.4,111.956,4,0,train,1
+5iscL6Ehw0Ch3B5Rs0KDP1,Clouds,Before You Exit,Clouds,12/14/16,271846,47,5iscL6Ehw0Ch3B5Rs0KDP1,0.391,0.175,6,-13.881,1,0.0353,0.922,2.47e-06,0.0896,0.259,78.805,3,0,train,1
+7HZKksFR5Qsr4XPHAkub32,Millionaires,The Script,#3,9/10/12,189466,29,7HZKksFR5Qsr4XPHAkub32,0.402,0.791,11,-3.804,1,0.0434,0.169,0,0.167,0.493,186.06,4,3,train,0
+2EBHPEJWmYj4W1HV3l0VZ6,Star Wars (Epic Main Theme),Samuel Kim,Star Wars: The Rise of Skywalker Tribute,10/25/19,213463,0,2EBHPEJWmYj4W1HV3l0VZ6,0.278,0.509,7,-8.573,1,0.0374,0.753,0.96,0.129,0.0852,91.773,3,5,train,0
+4uHs0TfECKllxN8zeLWqJu,Gol,Cali Y El Dandee,3 A.M.,1/1/12,222680,51,4uHs0TfECKllxN8zeLWqJu,0.696,0.746,1,-4.74,1,0.0566,0.159,0,0.168,0.513,126.088,4,3,train,0
+6CcJMwBtXByIz4zQLzFkKc,i love you,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",3/29/19,291796,79,6CcJMwBtXByIz4zQLzFkKc,0.421,0.131,0,-18.435,1,0.0382,0.952,0.00453,0.109,0.12,137.446,4,2,train,1
+7I5WT7DtpwSAhEeDLpZEfm,All 4 Nothing (I'm So In Love),Lauv,All 4 Nothing,8/5/22,183014,62,7I5WT7DtpwSAhEeDLpZEfm,0.72,0.819,1,-4.588,1,0.0362,0.0411,0,0.0606,0.898,131.99,4,3,train,1
+2prqm9sPLj10B4Wg0wE5x9,BLUE,Billie Eilish,HIT ME HARD AND SOFT,5/17/24,343120,84,2prqm9sPLj10B4Wg0wE5x9,0.349,0.337,7,-10.671,1,0.0407,0.29,0.172,0.139,0.0365,142.01,4,2,train,0
+0A1JLUlkZkp2EFrosoNQi0,Labyrinth,Taylor Swift,Midnights,10/21/22,247962,69,0A1JLUlkZkp2EFrosoNQi0,0.48,0.295,0,-15.512,1,0.0384,0.797,0.333,0.12,0.132,110.018,4,0,train,1
+629DixmZGHc7ILtEntuiWE,LUNCH,Billie Eilish,HIT ME HARD AND SOFT,5/17/24,179586,88,629DixmZGHc7ILtEntuiWE,0.893,0.4,11,-7.981,0,0.0643,0.0452,0.0823,0.0632,0.945,124.987,4,1,train,0
+4RVwu0g32PAqgUiJoXsdF8,Happier Than Ever,Billie Eilish,Happier Than Ever,7/30/21,298899,82,4RVwu0g32PAqgUiJoXsdF8,0.332,0.225,0,-8.697,1,0.0348,0.767,0.00349,0.128,0.297,81.055,3,0,train,1
+1dGr1c8CrMLDpV6mPbImSI,Lover,Taylor Swift,Lover,8/23/19,221306,85,1dGr1c8CrMLDpV6mPbImSI,0.359,0.543,7,-7.582,1,0.0919,0.492,1.58e-05,0.118,0.453,68.534,4,0,train,1
+1ULabO0PEsdJekqVH6G10G,I Know Places (Taylor's Version),Taylor Swift,1989 (Taylor's Version) [Deluxe],10/27/23,195700,59,1ULabO0PEsdJekqVH6G10G,0.572,0.807,0,-5.348,1,0.0574,0.0846,0,0.071,0.626,160.015,4,3,train,0
+2jz0DAnooOMwtuzboHP3VE,Nothing I've Ever Known,Bryan Adams,Spirit: Stallion Of The Cimarron (Music From The Original Motion Picture),5/4/02,232133,45,2jz0DAnooOMwtuzboHP3VE,0.673,0.241,8,-14.259,1,0.0371,0.744,0.000108,0.0991,0.135,121.962,4,0,train,1
+6CoKNa67qyFJmLdSz4DOI8,Nathan (still breathing),Fred again..,Actual Life 3 (January 1 - September 9 2022),10/28/22,163996,54,6CoKNa67qyFJmLdSz4DOI8,0.616,0.522,1,-8.544,1,0.0687,0.816,0.00249,0.219,0.165,97.977,4,0,train,1
+4q0crFErlOEybi84JzBqTp,Yo√º And I,Ben Platt,Yo√º And I,6/25/21,282615,34,4q0crFErlOEybi84JzBqTp,0.555,0.331,0,-8.622,1,0.0354,0.434,0,0.117,0.255,124.536,4,2,train,1
+4WUepByoeqcedHoYhSNHRt,Welcome To New York (Taylor's Version),Taylor Swift,1989 (Taylor's Version) [Deluxe],10/27/23,212600,60,4WUepByoeqcedHoYhSNHRt,0.76,0.602,7,-4.871,1,0.0316,0.00661,0.000133,0.325,0.685,116.989,4,3,train,0
+1p80LdxRV74UKvL8gnD7ky,Blank Space,Taylor Swift,1989,10/27/14,231826,69,1p80LdxRV74UKvL8gnD7ky,0.753,0.678,5,-5.421,1,0.0644,0.085,1.64e-06,0.13,0.583,96.006,4,3,train,0
+1NnBOnFPFdYJdauawQt5bN,Save the Last Dance for Me,Michael Bubl√©,It's Time,2/7/05,218613,54,1NnBOnFPFdYJdauawQt5bN,0.745,0.45,4,-9.121,1,0.0354,0.288,0,0.0538,0.807,133.952,4,3,train,1
+3AAwJ043uT1wXSKDtGyuxF,Misty Mountains,Richard Armitage,The Hobbit: An Unexpected Journey (Original Motion Picture Soundtrack),12/11/12,103024,67,3AAwJ043uT1wXSKDtGyuxF,0.195,0.0111,7,-31.641,0,0.0337,0.845,0.000881,0.112,0.3,83.735,1,4,train,1
+41PiyIwNrzoLn598y2glGY,Save You Tonight,One Direction,Up All Night,5/25/12,205920,52,41PiyIwNrzoLn598y2glGY,0.602,0.871,2,-4.208,0,0.0622,0.00528,0,0.288,0.495,128.057,4,1,train,1
+1YlCqvmX9P8XlAKPyHyGw1,You're Nobody till Somebody Loves You,Michael Bubl√©,Crazy Love,10/6/09,187400,37,1YlCqvmX9P8XlAKPyHyGw1,0.412,0.394,5,-6.341,1,0.0283,0.127,0,0.0833,0.359,68.37,4,0,train,1
+34IQaMgUdIciIpNWN5CUbl,In The Wee Small Hours Of The Morning,Frank Sinatra,Ultimate Sinatra,4/17/15,179000,36,34IQaMgUdIciIpNWN5CUbl,0.177,0.105,0,-14.264,1,0.0355,0.875,0.000526,0.0986,0.0876,68.941,5,0,train,0
+5i04Jy87RLxoZszJqY3QAN,Cry Me a River,Michael Bubl√©,Crazy Love,10/6/09,254746,51,5i04Jy87RLxoZszJqY3QAN,0.458,0.483,10,-7.909,1,0.0366,0.624,5.62e-06,0.0754,0.513,104.823,3,0,train,1
+0HMjXBAZmSYOTTi33WpMso,History,One Direction,Made In The A.M. - Deluxe Edition,11/13/15,187426,69,0HMjXBAZmSYOTTi33WpMso,0.655,0.697,11,-4.421,1,0.0493,0.0359,0,0.0646,0.802,86.704,4,3,train,1
+3w3y8KPTfNeOKPiqUTakBh,Locked out of Heaven,Bruno Mars,Unorthodox Jukebox,12/7/12,233478,87,3w3y8KPTfNeOKPiqUTakBh,0.726,0.698,5,-4.165,1,0.0431,0.049,0,0.309,0.867,143.994,4,3,train,1
+3t85LNwaXR96o6el8CV99C,Intro,Benson Boone,Fireworks & Rollerblades,4/5/24,62287,39,3t85LNwaXR96o6el8CV99C,0.346,0.228,9,-9.709,1,0.0362,0.868,0,0.188,0.224,59.722,4,0,train,1
+4SFNe716eUbgX1XvGCTBu7,De Selby (Part 2),Hozier,De Selby (Part 2),7/21/23,227826,29,4SFNe716eUbgX1XvGCTBu7,0.601,0.86,6,-5.374,0,0.0653,0.08,0.000369,0.189,0.65,161.96,4,1,train,1
+2UW59tk0OratchGvwN2uRr,"A Doom With a View - from ""Spider-Man: No Way Home"" Soundtrack",Michael Giacchino,Spider-Man: No Way Home (Original Motion Picture Soundtrack),12/17/21,120893,28,2UW59tk0OratchGvwN2uRr,0.0812,0.0226,0,-32.037,0,0.0412,0.971,0.921,0.119,0.0394,82.037,4,5,train,1
+1VrUu8hMTMslRSjsDpSJKc,RE-BYE,AKMU,SPRING,5/4/16,188716,0,1VrUu8hMTMslRSjsDpSJKc,0.801,0.608,2,-5.474,0,0.0663,0.476,0,0.13,0.922,127.958,4,1,train,0
+2JuIs3XJlYPy8vBO66CEkJ,Star,Bazzi,COSMIC,4/12/18,169872,50,2JuIs3XJlYPy8vBO66CEkJ,0.694,0.389,8,-5.41,1,0.0706,0.3,0,0.158,0.409,90.984,4,3,train,1
+608R6FvRtAqf2dvgKMzebP,I Want to Write You a Song,One Direction,Made In The A.M. - Deluxe Edition,11/13/15,179013,56,608R6FvRtAqf2dvgKMzebP,0.714,0.443,5,-7.638,1,0.0256,0.779,0.000109,0.144,0.463,106.04,4,0,train,0
+1Mv9pebAYnZz3VSKzcMFFM,"You'll Be In My Heart - From ""Tarzan""/Soundtrack Version",Glenn Close,Disney's Greatest Volume 2,1/1/01,97653,34,1Mv9pebAYnZz3VSKzcMFFM,0.378,0.0956,9,-21.07,1,0.0395,0.861,0,0.205,0.321,101.023,3,0,train,1
+4QIwYqmwtr0hfJktadACK7,A Bird Without Wings,Celtic Thunder,The Show Act Two,2008,240000,0,4QIwYqmwtr0hfJktadACK7,0.455,0.278,9,-8.883,1,0.0289,0.883,0,0.114,0.207,114.074,4,0,train,1
+5N3hjp1WNayUPZrA8kJmJP,Please Please Please,Sabrina Carpenter,Please Please Please,6/6/24,186365,93,5N3hjp1WNayUPZrA8kJmJP,0.669,0.586,9,-6.073,1,0.054,0.274,0,0.104,0.579,107.071,4,3,train,0
+66uhlklxdGRFlUftJf8JFc,Slow It Down,Benson Boone,Fireworks & Rollerblades,4/5/24,161831,40,66uhlklxdGRFlUftJf8JFc,0.432,0.583,8,-4.682,1,0.0687,0.174,0,0.0933,0.544,181.489,4,3,train,1
+2m6Ko3CY1qXNNja8AlugNc,Angel Baby,Troye Sivan,Angel Baby,9/9/21,220779,71,2m6Ko3CY1qXNNja8AlugNc,0.559,0.559,11,-6.425,1,0.0358,0.0145,0,0.138,0.338,72.498,4,3,train,0
+2K6vUau7bnZUamjbRSOOvJ,777,Bruno Mars,An Evening With Silk Sonic,11/12/21,165000,59,2K6vUau7bnZUamjbRSOOvJ,0.836,0.622,1,-11.003,1,0.0946,0.00269,0.000566,0.335,0.892,102.015,4,3,train,1
+6pmZMP2ET1OJi5rKfLO8jD,3:15,Bazzi,COSMIC,4/12/18,167018,61,6pmZMP2ET1OJi5rKfLO8jD,0.651,0.654,1,-5.481,1,0.0466,0.385,0,0.181,0.539,141.975,4,3,train,1
+7L3borCR5Izc7zJjFpjjhh,La Llorona,√Ångela Aguilar,Primero Soy Mexicana,3/2/18,490753,3,7L3borCR5Izc7zJjFpjjhh,0.808,0.253,7,-7.267,0,0.0332,0.847,4.24e-05,0.229,0.274,122.879,3,2,train,1
+0c3yfC8zMRJGvmqphczhZb,Nothing,The Script,Science & Faith,1/18/11,272213,51,0c3yfC8zMRJGvmqphczhZb,0.473,0.833,2,-5.013,1,0.039,0.00369,0,0.118,0.503,157.012,4,3,train,1
+4q5R6rdomdPOwVxJrExLkc,"The Day (From ""Mr. Sunshine [Original Television Soundtrack], Pt. 1"")",Park Hyo Shin,"The Day (From ""Mr. Sunshine [Original Television Soundtrack], Pt. 1"")",7/8/18,292526,0,4q5R6rdomdPOwVxJrExLkc,0.327,0.375,1,-8.405,1,0.0313,0.392,0,0.101,0.149,72.364,4,0,train,0
+2NcQic8JxdjAlAHuNbOIRE,Keep Driving,Harry Styles,Harry's House,5/20/22,140241,70,2NcQic8JxdjAlAHuNbOIRE,0.721,0.479,9,-9.669,1,0.226,0.321,0.00156,0.182,0.902,164.948,3,1,train,1
+5lb8hYTICPj3WGIiaW1qla,I Wish I Had a Hundred Years,Fernando Vel√°zquez,A Monster Calls (Original Motion Picture Soundtrack),12/9/16,132840,54,5lb8hYTICPj3WGIiaW1qla,0.119,0.0347,11,-24.575,0,0.0394,0.975,0.904,0.0815,0.0347,95.597,4,5,train,1
+6LVsIWAAQwGjHMv7SOQjnY,BRB,Bazzi,COSMIC,4/12/18,160581,42,6LVsIWAAQwGjHMv7SOQjnY,0.66,0.616,9,-4.753,1,0.0333,0.523,0,0.391,0.536,138.942,4,3,train,1
+1TuSfYnKU5uKbYK1esQDLj,Another Heartbreak,Giveon,Give Or Take,6/24/22,249315,53,1TuSfYnKU5uKbYK1esQDLj,0.587,0.251,1,-9.017,1,0.0289,0.862,0,0.105,0.272,75.163,4,0,train,0
+3sW3oSbzsfecv9XoUdGs7h,Enchanted (Taylor's Version),Taylor Swift,Speak Now (Taylor's Version),7/7/23,353253,77,3sW3oSbzsfecv9XoUdGs7h,0.52,0.553,8,-3.546,1,0.0269,0.016,0,0.165,0.227,81.949,4,3,train,0
+08MFgEQeVLF37EyZ7jcwLc,Pano,Zack Tabudlo,Pano,12/6/21,254400,67,08MFgEQeVLF37EyZ7jcwLc,0.375,0.457,3,-7.018,1,0.0315,0.868,0.0145,0.191,0.415,174.839,3,2,train,1
+4dYUOfmWna6DFccnz732n8,How You Get The Girl,Taylor Swift,1989,10/27/14,247533,42,4dYUOfmWna6DFccnz732n8,0.764,0.66,5,-6.136,1,0.0494,0.00461,0.00477,0.0915,0.524,119.988,4,3,train,1
+1Slwb6dOYkBlWal1PGtnNg,Thinking out Loud,Ed Sheeran,x - Wembley Edition,2013,281560,63,1Slwb6dOYkBlWal1PGtnNg,0.781,0.445,2,-6.061,1,0.0295,0.474,0,0.184,0.591,78.998,4,3,train,1
+5cEap0vG6Dc6TJDN77cyF9,When You're Not Here,Michael Bubl√©,love (Deluxe Edition),11/16/18,218261,40,5cEap0vG6Dc6TJDN77cyF9,0.263,0.163,11,-11.077,1,0.0352,0.913,0.00227,0.12,0.203,89.745,3,0,train,1
+5fEql5cR2hjR6wPGUPiEEb,Na Na Na,One Direction,Up All Night,5/25/12,185653,54,5fEql5cR2hjR6wPGUPiEEb,0.582,0.903,11,-2.155,1,0.0576,0.0191,0,0.374,0.639,144.973,4,3,train,1
+1na2MOlie83rN9sTNRuEOj,I Need You,M83,Divergent: Original Motion Picture Soundtrack,1/1/14,181280,54,1na2MOlie83rN9sTNRuEOj,0.187,0.526,2,-7.291,1,0.0326,0.0261,0.0342,0.172,0.0739,72.259,4,0,train,1
+3G5iN5QBqMeXx3uZPy8tgB,Young Girls,Bruno Mars,Unorthodox Jukebox,12/7/12,228720,66,3G5iN5QBqMeXx3uZPy8tgB,0.561,0.749,6,-4.951,0,0.032,0.461,1.82e-06,0.205,0.501,125.986,4,1,train,1
+6lrYBcuR6Q1YWtSGFmJ48H,Shot My Baby,Daniel Caesar,NEVER ENOUGH (Bonus Version),4/10/23,268221,53,6lrYBcuR6Q1YWtSGFmJ48H,0.495,0.65,8,-6.786,0,0.0397,0.0035,0.00891,0.195,0.184,84.956,4,1,train,1
+2k0ZEeAqzvYMcx9Qt5aClQ,All You Had To Do Was Stay (Taylor's Version),Taylor Swift,1989 (Taylor's Version) [Deluxe],10/27/23,193289,60,2k0ZEeAqzvYMcx9Qt5aClQ,0.589,0.713,0,-5.614,1,0.0308,0.000778,0,0.188,0.54,97.069,4,3,train,0
+5GK4ax71sSIokiNEZsND3d,Sound The Bugle,Bryan Adams,Spirit: Stallion Of The Cimarron (Music From The Original Motion Picture),5/4/02,234600,51,5GK4ax71sSIokiNEZsND3d,0.506,0.195,7,-12.288,1,0.0358,0.559,2.54e-05,0.565,0.0523,114.184,4,0,train,1
+1gXBi2I04CLJkTQnhNfEJT,Weight in Gold,Gallant,Ology,4/6/16,203813,46,1gXBi2I04CLJkTQnhNfEJT,0.38,0.438,5,-5.526,0,0.0962,0.0259,1.29e-05,0.154,0.349,179.404,3,1,train,0
+6nIE1oCE4udqMGv3bqVNVb,Half a Heart,One Direction,Midnight Memories (Deluxe),11/25/13,188546,59,6nIE1oCE4udqMGv3bqVNVb,0.515,0.714,0,-4.516,1,0.0348,0.286,0,0.118,0.495,155.954,4,3,train,0
+7vySXLEg91xiAi8J0Qiqwv,The Impossible Dream (The Quest),Frank Sinatra,That's Life,1966-11,151266,39,7vySXLEg91xiAi8J0Qiqwv,0.344,0.191,10,-15.09,1,0.039,0.799,0,0.159,0.327,125.374,3,0,train,1
+5AezhHjX3R1bmxcAEgrFpS,End of the Day,One Direction,Made In The A.M. - Deluxe Edition,11/13/15,194973,59,5AezhHjX3R1bmxcAEgrFpS,0.502,0.594,11,-5.031,1,0.0365,0.0256,0,0.0834,0.349,153.692,5,3,train,1
+0kWQn0wLok1lawHAkGSMW9,I Like That,Bazzi,Infinite Dream,9/16/22,158083,55,0kWQn0wLok1lawHAkGSMW9,0.665,0.692,6,-5.431,0,0.112,0.172,0,0.191,0.68,74.474,4,1,train,0
+3S8jK1mGzQi24ilFb45DAZ,Lonely (with benny blanco),Justin Bieber,Justice,3/19/21,149189,73,3S8jK1mGzQi24ilFb45DAZ,0.619,0.241,11,-7.102,0,0.046,0.9,0,0.116,0.0719,79.461,4,0,train,1
+0tgVpDi06FyKpA1z0VMD4v,Perfect,Ed Sheeran,√∑ (Deluxe),3/3/17,263400,85,0tgVpDi06FyKpA1z0VMD4v,0.599,0.448,8,-6.312,1,0.0232,0.163,0,0.106,0.168,95.05,3,2,train,0
+4EhqimHdoK9OmCNvCfioH6,this is what slow dancing feels like,JVKE,this is what slow dancing feels like,4/15/24,145735,64,4EhqimHdoK9OmCNvCfioH6,0.385,0.504,5,-3.204,0,0.034,0.296,0.00676,0.111,0.33,66.452,4,1,train,0
+1hHuyqVCZCbhYQixEkdQCo,Sing for Absolution,Muse,Absolution,3/23/04,294866,1,1hHuyqVCZCbhYQixEkdQCo,0.436,0.678,5,-7.211,1,0.0301,0.457,0.0384,0.0873,0.194,170.287,4,2,train,0
+4fFqFgMDP9lY8tqEoArFGq,Judah Smith Interlude,Lana Del Rey,Did you know that there's a tunnel under Ocean Blvd,3/24/23,276757,52,4fFqFgMDP9lY8tqEoArFGq,0.474,0.324,9,-10.411,1,0.077,0.962,4.88e-05,0.231,0.335,119.458,3,2,train,0
+2ZbnaNF52uSfO4eouvjSrJ,Make Me Whole,"Rob Gardner & London Symphony Orchestra, Linsey Maxson, Bailee Brinkerhoff","Lamb of God: a sacred work for choir, orchestra and soloists",9/10/10,240746,5,2ZbnaNF52uSfO4eouvjSrJ,0.209,0.187,1,-17.307,1,0.0461,0.831,2.88e-06,0.116,0.0784,84.837,3,0,train,1
+1IdM9JrXYuMYiTdM983oH4,"Not Spring, Love, or Cherry Blossoms",HIGH4,"Not Spring, Love, or Cherry Blossoms",4/8/14,195265,51,1IdM9JrXYuMYiTdM983oH4,0.77,0.484,7,-6.626,1,0.0538,0.464,0,0.44,0.793,79.988,4,3,train,1
+1yHVHoz6Ny29gbbWJYVnFt,Heaven,Niall Horan,Heaven,2/17/23,186043,2,1yHVHoz6Ny29gbbWJYVnFt,0.571,0.761,5,-3.485,1,0.0261,0.0708,0,0.331,0.681,91.991,4,3,train,0
+042Sl6Mn83JHyLEqdK7uI0,Your Power,Billie Eilish,Happier Than Ever,7/30/21,245896,72,042Sl6Mn83JHyLEqdK7uI0,0.632,0.284,9,-14.025,0,0.0801,0.932,0.000476,0.233,0.208,129.642,4,2,train,1
+4YutJsNwBBInE8vemufpQ8,"Girl Crush - Recorded at Metropolis Studios, London",Harry Styles,Spotify Singles,9/27/17,243804,63,4YutJsNwBBInE8vemufpQ8,0.468,0.197,4,-11.727,1,0.033,0.658,0,0.109,0.249,144.212,3,2,train,1
+79uDOz0zuuWS7HWxzMmTa2,Back To December (Taylor's Version),Taylor Swift,Speak Now (Taylor's Version),7/7/23,294189,72,79uDOz0zuuWS7HWxzMmTa2,0.486,0.635,2,-3.994,1,0.0278,0.00705,0,0.119,0.235,141.868,4,3,train,1
+55h7vJchibLdUkxdlX3fK7,Treasure,Bruno Mars,Unorthodox Jukebox,12/7/12,178560,80,55h7vJchibLdUkxdlX3fK7,0.874,0.692,5,-5.28,0,0.0431,0.0412,7.24e-05,0.324,0.937,116.017,4,1,train,1
+4deAN7JXhdHHifxOp0TTjU,Do You Like Me?,Daniel Caesar,NEVER ENOUGH,4/7/23,227520,65,4deAN7JXhdHHifxOp0TTjU,0.718,0.398,11,-6.774,1,0.0396,0.498,0.0352,0.129,0.373,76.976,4,0,train,0
+4SRYGZsbHrmH7E9xMVz4Wm,Nobody Compares,One Direction,Take Me Home (Expanded Edition),11/12/12,211626,56,4SRYGZsbHrmH7E9xMVz4Wm,0.658,0.801,11,-4.124,1,0.0334,0.00727,0,0.0448,0.879,124.008,4,3,train,1
+22CY3wlF8O6Z9QkOWYhaz5,Îàà Îñ†Î≥¥Îãà Ïù¥Î≥ÑÏù¥ÎçîÎùº,4MEN,Remember Me,10/24/17,282421,12,22CY3wlF8O6Z9QkOWYhaz5,0.451,0.499,7,-6.151,1,0.0317,0.783,0,0.122,0.262,131.361,4,2,train,1
+1OcSfkeCg9hRC2sFKB4IMJ,Out Of The Woods (Taylor's Version),Taylor Swift,1989 (Taylor's Version) [Deluxe],10/27/23,235800,61,1OcSfkeCg9hRC2sFKB4IMJ,0.544,0.884,7,-5.973,1,0.0383,0.000466,0.000134,0.381,0.184,91.981,4,3,train,0
+3kLChd6atCWKPz1WzufHQo,Monsters,Ben Platt,Honeymind,5/31/24,240957,34,3kLChd6atCWKPz1WzufHQo,0.394,0.254,0,-9.398,1,0.0283,0.336,0,0.105,0.132,145.761,4,2,train,1
+1yf97yL1ll8FYXC27c9VTw,Trees,Twenty One Pilots,Vessel,1/8/13,267386,60,1yf97yL1ll8FYXC27c9VTw,0.584,0.833,6,-5.9,1,0.041,0.00359,3.44e-05,0.169,0.324,140.013,4,3,train,1
+0JU7KoyKSFgY1zJV2ex6Ee,Feel Something,Joshua Bassett,Feel Something,5/7/21,163866,44,0JU7KoyKSFgY1zJV2ex6Ee,0.52,0.901,0,-5.448,1,0.407,0.331,0,0.175,0.509,199.84,4,1,train,0
+2KNMqqNd3sLfeN4ukKduRT,Moon River,Frank Sinatra,"Days Of Wine And Roses, Moon River And Other Academy Award Winners",1964,199133,56,2KNMqqNd3sLfeN4ukKduRT,0.171,0.0632,0,-20.776,1,0.0327,0.945,2.71e-05,0.121,0.168,81.406,3,0,train,1
+35Dofxo9smHVxmFQbhYIAT,Stereo Love,Edward Maya,Stereo Love,2/2/10,247614,1,35Dofxo9smHVxmFQbhYIAT,0.778,0.776,9,-5.359,1,0.0362,0.0338,0.0216,0.0772,0.361,127.049,4,3,train,1
+0Lmbke3KNVFXtoH2mMSHCw,the boy is mine,Ariana Grande,eternal sunshine,3/8/24,173639,84,0Lmbke3KNVFXtoH2mMSHCw,0.795,0.63,7,-5.854,0,0.0434,0.157,0,0.0732,0.447,97.998,4,1,train,0
+2QfznFotJNZmnIEYFdzE5T,Heartbreak Anniversary,Giveon,Heartbreak Anniversary,2/21/20,196794,69,2QfznFotJNZmnIEYFdzE5T,0.624,0.457,0,-8.876,1,0.0494,0.557,0,0.128,0.586,129.758,4,3,train,0
+3g3GjHuxntUfUd4t23rGTZ,Cool,Daniel Caesar,NEVER ENOUGH,4/7/23,244189,53,3g3GjHuxntUfUd4t23rGTZ,0.426,0.139,7,-10.916,1,0.0301,0.915,0.00242,0.107,0.222,61.04,4,0,train,1
+3FxJDucHWdw6caWTKO5b23,I Wish You Would (Taylor's Version),Taylor Swift,1989 (Taylor's Version) [Deluxe],10/27/23,207650,59,3FxJDucHWdw6caWTKO5b23,0.671,0.853,0,-6.568,1,0.0417,0.00388,9.48e-06,0.0812,0.523,118.032,4,3,train,0
+1HYzRuWjmS9LXCkdVHi25K,Stay With Me,CHANYEOL,"Guardian (Original Television Soundtrack), Pt. 1",12/3/16,192441,69,1HYzRuWjmS9LXCkdVHi25K,0.558,0.526,0,-4.686,0,0.033,0.431,0,0.126,0.202,124.709,4,1,train,1
+56KDoLjFIm7Yc7fX1XgpNw,Always Been You,Shawn Mendes,Wonder,12/4/20,167193,53,56KDoLjFIm7Yc7fX1XgpNw,0.37,0.39,3,-6.958,1,0.0419,0.229,0,0.0823,0.309,124.802,4,0,train,0
+6uW0PIRcyZLvkoonm763xD,Contando Lunares (feat. Cruz Cafun√©),Don Patricio,La Dura Vida del Joven Rapero,1/27/19,219666,64,6uW0PIRcyZLvkoonm763xD,0.856,0.523,4,-10.481,0,0.131,0.442,0,0.0537,0.709,105.935,4,1,train,1
+63MgFVcIldlw51imFtcgK1,El Perd√≥n,Nicky Jam,El Perd√≥n (w/ Enrique Iglesias),4/19/16,207013,0,63MgFVcIldlw51imFtcgK1,0.622,0.701,8,-5.452,1,0.0559,0.423,0,0.0955,0.645,179.998,4,3,train,1
+2Bs4jQEGMycglOfWPBqrVG,Steal My Girl,One Direction,FOUR (Deluxe),11/17/14,228133,78,2Bs4jQEGMycglOfWPBqrVG,0.536,0.768,10,-5.948,0,0.0347,0.00433,0,0.114,0.545,77.217,4,1,train,1
+138oQeapLds5IeJrdRfeUd,Intro,Shawn Mendes,Wonder,12/4/20,62422,43,138oQeapLds5IeJrdRfeUd,0.498,0.199,7,-11.011,1,0.0353,0.933,0.000573,0.493,0.47,76.046,4,0,train,1
+5Lbsc65org0b85kNsPkluY,Only Angel,Harry Styles,Harry Styles,5/12/17,291080,62,5Lbsc65org0b85kNsPkluY,0.554,0.842,5,-4.113,1,0.0397,0.287,0,0.106,0.348,114.036,4,3,train,1
+0QBzMgT7NIeoCYy3sJCof1,Bam Bam (feat. Ed Sheeran),Camila Cabello,Bam Bam (feat. Ed Sheeran),3/4/22,206070,71,0QBzMgT7NIeoCYy3sJCof1,0.756,0.697,8,-6.377,1,0.0401,0.182,0,0.333,0.956,94.996,4,3,train,0
+1ZMiCix7XSAbfAJlEZWMCp,Falling,Harry Styles,Fine Line,12/13/19,240133,79,1ZMiCix7XSAbfAJlEZWMCp,0.567,0.267,4,-6.502,1,0.0299,0.839,1.46e-06,0.089,0.0592,110.011,4,2,train,1
+59HjlYCeBsxdI0fcm3zglw,Wildest Dreams,Taylor Swift,1989,10/27/14,220440,65,59HjlYCeBsxdI0fcm3zglw,0.554,0.666,8,-7.414,1,0.0747,0.0702,0.00593,0.106,0.472,140.056,4,3,train,1
+4WBEj8TeGtRPNJdOmT3WJW,This Love (Taylor‚Äôs Version),Taylor Swift,1989 (Taylor's Version) [Deluxe],10/27/23,250100,58,4WBEj8TeGtRPNJdOmT3WJW,0.47,0.494,4,-8.672,1,0.0349,0.302,0,0.0672,0.0524,144.039,4,2,train,0
+7uzmGiiJyRfuViKKK3lVmR,Mine,Bazzi,COSMIC,4/12/18,131064,71,7uzmGiiJyRfuViKKK3lVmR,0.71,0.789,4,-3.874,1,0.0722,0.0161,2.77e-06,0.451,0.717,142.929,4,3,train,1
+31Wlc9ZnraX3JxrvMg9e8H,3 Boys,Omar Apollo,3 Boys,2/17/23,209188,57,31Wlc9ZnraX3JxrvMg9e8H,0.548,0.456,9,-5.979,1,0.0703,0.813,0.00464,0.122,0.53,173.839,3,2,train,1
+5M787RexsAiVYjQusM98CV,New Romantics (Taylor's Version),Taylor Swift,1989 (Taylor's Version) [Deluxe],10/27/23,230177,61,5M787RexsAiVYjQusM98CV,0.653,0.848,5,-5.936,1,0.0583,0.00516,4.24e-06,0.0798,0.724,122.017,4,3,train,0
+43zdsphuZLzwA9k4DJhU0I,when the party's over,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",3/29/19,196077,83,43zdsphuZLzwA9k4DJhU0I,0.367,0.111,4,-14.084,1,0.0972,0.978,3.97e-05,0.0897,0.198,82.642,4,0,train,1
+3uTsiaNxy6h6EAd7MsCf9D,this is what forever feels like (with Nick Jonas),JVKE,this is what forever feels like,9/13/24,154841,69,3uTsiaNxy6h6EAd7MsCf9D,0.447,0.697,1,-4.896,1,0.0425,0.182,2.49e-06,0.137,0.306,149.024,4,3,train,0
+1dQQ2QlnvXUehsRUrukKmf,Right Now,One Direction,Midnight Memories (Deluxe),11/25/13,200400,75,1dQQ2QlnvXUehsRUrukKmf,0.645,0.78,8,-5.165,1,0.0319,0.218,0,0.0919,0.372,120.008,4,3,train,1
+3wNNbf63xkxw9rIVWtFy7a,Stand Up (From Harriet),Cynthia Erivo,Stand Up (From Harriet),10/25/19,303477,64,3wNNbf63xkxw9rIVWtFy7a,0.616,0.32,0,-10.194,1,0.0311,0.268,0,0.11,0.177,80.02,4,2,train,1
+0lKUBmEyQfzsQHozyeXzES,Clean (Taylor's Version),Taylor Swift,1989 (Taylor's Version) [Deluxe],10/27/23,271000,60,0lKUBmEyQfzsQHozyeXzES,0.782,0.379,4,-8.964,1,0.0303,0.297,2.98e-05,0.103,0.267,103.99,4,3,train,0
+4dORWJfLHYnXkB5PeR4s5b,For Now,Lauv,~how i'm feeling~,3/6/20,189240,44,4dORWJfLHYnXkB5PeR4s5b,0.532,0.227,7,-12.184,1,0.0416,0.776,7.56e-06,0.086,0.107,83.57,4,0,train,1
+5MMLS3xm12D7N26xlfFApr,Runaway Baby,Bruno Mars,Doo-Wops & Hooligans,5/11/10,148448,70,5MMLS3xm12D7N26xlfFApr,0.658,0.762,10,-3.028,0,0.0425,0.263,0,0.127,0.823,163.864,4,1,train,1
+7MXVkk9YMctZqd1Srtv4MB,Starboy,The Weeknd,Starboy,11/25/16,230453,88,7MXVkk9YMctZqd1Srtv4MB,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,4,1,train,1
+3Vpk1hfMAQme8VJ0SNRSkd,Style (Taylor's Version),Taylor Swift,1989 (Taylor's Version) [Deluxe],10/27/23,231000,63,3Vpk1hfMAQme8VJ0SNRSkd,0.514,0.821,7,-4.803,1,0.0444,0.000456,0.0232,0.0946,0.298,94.884,4,3,train,1
+2ZHH9aoZjrqtFk1SX1dXy7,Moonlight,Ariana Grande,Dangerous Woman,5/20/16,202360,45,2ZHH9aoZjrqtFk1SX1dXy7,0.633,0.412,9,-7.339,1,0.0284,0.42,3.57e-06,0.048,0.214,102.215,3,0,train,1
+77Gfhrr1Uh9Pv57MUUmVuY,Secret,Joshua Bassett,Crisis / Secret / Set Me Free,12/3/21,192413,50,77Gfhrr1Uh9Pv57MUUmVuY,0.611,0.816,2,-5.559,1,0.0592,0.0292,0,0.0825,0.589,144.992,4,3,train,0
+4BrX9il0kSbL8xtlHjQbpP,"Gianni Schicchi: ""O mio Babbino caro""",Giacomo Puccini,Vissi d'Arte - Opera for Orchestra,11/4/97,243000,38,4BrX9il0kSbL8xtlHjQbpP,0.206,0.19,8,-15.396,1,0.0384,0.974,0.808,0.131,0.0368,79.811,3,5,train,1
+3QaPy1KgI7nu9FJEQUgn6h,WILDFLOWER,Billie Eilish,HIT ME HARD AND SOFT,5/17/24,261466,91,3QaPy1KgI7nu9FJEQUgn6h,0.467,0.247,6,-12.002,0,0.0431,0.612,0.000271,0.17,0.126,148.101,4,2,train,1
+0IHgyl0zAHIj7kpm4YKKv3,Sun And Moon,Sam Kim,Sun And Moon Part.1,10/23/18,301059,19,0IHgyl0zAHIj7kpm4YKKv3,0.534,0.62,2,-8.276,1,0.0404,0.173,1.37e-05,0.127,0.392,130.863,3,2,train,0
+46kspZSY3aKmwQe7O77fCC,we can't be friends (wait for your love),Ariana Grande,eternal sunshine,3/8/24,228639,82,46kspZSY3aKmwQe7O77fCC,0.645,0.646,5,-8.334,1,0.0427,0.0615,3.04e-05,0.074,0.295,115.842,4,3,train,1
+6wf7Yu7cxBSPrRlWeSeK0Q,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,"What Was I Made For? [From The Motion Picture ""Barbie""]",7/13/23,222369,86,6wf7Yu7cxBSPrRlWeSeK0Q,0.391,0.084,0,-17.843,1,0.0317,0.953,0,0.0983,0.111,79.449,4,0,train,1
+6rY5FAWxCdAGllYEOZMbjW,SLOW DANCING IN THE DARK,Joji,BALLADS 1,10/26/18,209273,79,6rY5FAWxCdAGllYEOZMbjW,0.517,0.479,3,-7.458,1,0.0261,0.544,0.00598,0.191,0.284,88.968,4,0,train,0
+6N5xh0tYYLTQRiCCaNbAUt,Infinity,One Direction,Made In The A.M. - Deluxe Edition,11/13/15,249480,61,6N5xh0tYYLTQRiCCaNbAUt,0.536,0.707,4,-6.076,1,0.0336,0.0697,0,0.0842,0.321,131.962,4,3,train,1
+2XmUYeqNpGcjFE7DhUWDw5,In The Stars,Benson Boone,Fireworks & Rollerblades,4/5/24,216410,38,2XmUYeqNpGcjFE7DhUWDw5,0.362,0.54,10,-6.031,1,0.0528,0.338,0,0.139,0.3,78.007,3,0,train,1
+4kF394GKEnI13QdZBM9mxM,Misty,Ella Fitzgerald,The Complete Piano Duets,3/13/20,174066,50,4kF394GKEnI13QdZBM9mxM,0.359,0.109,8,-14.113,0,0.039,0.995,0.00348,0.12,0.234,88.423,1,4,train,1
+2MOoIbJWIYikwIXjBDe26i,Paris in the Rain,Lauv,I met you when I was 18. (the playlist),5/31/18,204712,68,2MOoIbJWIYikwIXjBDe26i,0.406,0.408,3,-9.419,1,0.053,0.771,7.88e-06,0.394,0.525,79.705,4,0,train,1
+5kK1Iru9ogP3Iy1zsANU1n,The Power of Love,C√©line Dion,The Colour Of My Love,11/9/93,342400,71,5kK1Iru9ogP3Iy1zsANU1n,0.546,0.519,8,-9.072,1,0.0291,0.36,0.00046,0.24,0.247,140.054,4,2,train,1
+77u89jbqM9WGbLzveay3rq,A Goose's Dream,Ïù∏ÏàúÏù¥,A Goose's Dream,1/29/07,342125,21,77u89jbqM9WGbLzveay3rq,0.447,0.47,4,-5.549,1,0.0268,0.52,0,0.0984,0.085,136.034,4,2,train,1
+1NhPKVLsHhFUHIOZ32QnS2,Secrets,OneRepublic,Waking Up,1/1/09,224693,74,1NhPKVLsHhFUHIOZ32QnS2,0.516,0.764,2,-6.223,1,0.0366,0.0717,0,0.115,0.376,148.021,4,3,train,0
+5zZEP23ceNvvA9IT6CnqoY,La Rumba D'el Jefe,Jesse Cook,The Rumba Foundation,1/1/09,217226,41,5zZEP23ceNvvA9IT6CnqoY,0.759,0.455,9,-9.991,0,0.048,0.562,0.894,0.109,0.32,93.006,4,5,train,1
+2UFOh8iMQ2DON7sl3lqGJH,Long Way Down,One Direction,Made In The A.M. - Deluxe Edition,11/13/15,192160,55,2UFOh8iMQ2DON7sl3lqGJH,0.634,0.565,0,-5.179,1,0.0242,0.0773,2.12e-05,0.168,0.541,145.001,4,3,train,0
+3lnjFENd7rHxPYM9b964Md,"C'mon, C'mon",One Direction,Take Me Home (Expanded Edition),11/12/12,164680,58,3lnjFENd7rHxPYM9b964Md,0.638,0.942,5,-4.163,0,0.0857,0.015,0,0.31,0.745,142.896,4,1,train,1
+3kSXn1osC89W8JcPLozTzs,Stand By You,Rachel Platten,Wildfire,1/1/16,219000,60,3kSXn1osC89W8JcPLozTzs,0.506,0.897,9,-4.632,1,0.26,0.146,0.000451,0.0868,0.525,188.03,4,1,train,0
+5qELFdy1PLLinCg5462HES,Finally Free,Joshua Bassett,"High School Musical: The Musical: The Series Season 3 (Episode 1) [From ""High School Musical: The Musical: The Series (Season 3)""]",7/27/22,197972,42,5qELFdy1PLLinCg5462HES,0.434,0.713,11,-6.44,1,0.0361,0.168,0,0.101,0.376,171.797,4,3,train,0
+0nJW01T7XtvILxQgC5J7Wh,When I Was Your Man,Bruno Mars,Unorthodox Jukebox,12/7/12,213826,88,0nJW01T7XtvILxQgC5J7Wh,0.612,0.28,0,-8.648,1,0.0434,0.932,0,0.088,0.387,72.795,4,0,train,1
+3NLnwwAQbbFKcEcV8hDItk,Perfect,One Direction,Made In The A.M. - Deluxe Edition,11/13/15,230333,80,3NLnwwAQbbFKcEcV8hDItk,0.648,0.822,11,-5.231,0,0.0749,0.0598,0,0.119,0.397,99.933,4,1,train,1
+14LtANuaslKWyYbktUrHBU,Enchanted,Taylor Swift,Speak Now (Deluxe Edition),10/25/10,352186,44,14LtANuaslKWyYbktUrHBU,0.455,0.623,8,-3.878,1,0.0288,0.0739,0.000424,0.146,0.208,163.893,4,2,train,0
+26hOm7dTtBi0TdpDGl141t,Die For You,Joji,SMITHEREENS,11/4/22,211666,75,26hOm7dTtBi0TdpDGl141t,0.472,0.518,8,-7.379,1,0.051,0.383,0.127,0.289,0.154,147.805,4,2,train,1
+6eBK3edMW7bEzecF1eCezc,(Everything I Do) I Do It For You,Bryan Adams,Waking Up The Neighbours,9/24/91,394133,62,6eBK3edMW7bEzecF1eCezc,0.526,0.365,1,-12.605,1,0.028,0.0775,1.37e-05,0.0618,0.254,131.251,4,2,train,0
+6fPan2saHdFaIHuTSatORv,L‚ÄôAMOUR DE MA VIE,Billie Eilish,HIT ME HARD AND SOFT,5/17/24,333986,84,6fPan2saHdFaIHuTSatORv,0.467,0.392,9,-9.355,1,0.0908,0.2,0.0174,0.106,0.313,145.104,4,2,train,1
+0UsP6myH78yMjlWAOyPcMa,305,Shawn Mendes,Wonder (Deluxe),12/7/20,189072,41,0UsP6myH78yMjlWAOyPcMa,0.564,0.866,6,-5.575,1,0.0604,0.195,0.0352,0.118,0.939,164.935,4,3,train,0
+43rA71bccXFGD4C8GOpIlN,I Forgot That You Existed,Taylor Swift,Lover,8/23/19,170640,69,43rA71bccXFGD4C8GOpIlN,0.664,0.316,5,-10.345,1,0.519,0.298,2.03e-06,0.0812,0.541,92.875,4,1,train,0
+6HRsJu8vcnzYDN4t0570FY,Wonderland (Taylor's Version),Taylor Swift,1989 (Taylor's Version) [Deluxe],10/27/23,245566,59,6HRsJu8vcnzYDN4t0570FY,0.387,0.703,3,-5.956,1,0.0545,0.0105,1.1e-05,0.128,0.32,123.18,5,3,train,0
+6v3KW9xbzN5yKLt9YKDYA2,Se√±orita,Shawn Mendes,Shawn Mendes (Deluxe),6/19/19,190799,79,6v3KW9xbzN5yKLt9YKDYA2,0.759,0.548,9,-6.049,0,0.0289,0.0379,0,0.0828,0.75,116.963,4,1,train,0
+23eQyAz9tzvrKsG0kAnrja,Change My Mind,One Direction,Take Me Home (Expanded Edition),11/12/12,212893,54,23eQyAz9tzvrKsG0kAnrja,0.599,0.595,2,-5.316,1,0.0281,0.0634,0,0.103,0.474,117.031,4,3,train,1
+6LXIhiXK8z1KLd3giR904b,Smells Like Me,Charlie Puth,Smells Like Me,9/2/22,204079,49,6LXIhiXK8z1KLd3giR904b,0.602,0.565,11,-6.498,1,0.0498,0.329,0,0.0622,0.609,208.038,4,3,train,0
+3nqqDo8CcCLke3ZoTgiOKf,The Man Who Can't Be Moved,The Script,The Script,7/14/08,241373,81,3nqqDo8CcCLke3ZoTgiOKf,0.605,0.629,10,-5.051,1,0.0279,0.437,0,0.097,0.308,99.894,4,3,train,1
+1RMJOxR6GRPsBHL8qeC2ux,Best Part (feat. H.E.R.),Daniel Caesar,Freudian,8/25/17,209831,85,1RMJOxR6GRPsBHL8qeC2ux,0.524,0.364,7,-10.209,1,0.0367,0.808,0,0.1,0.436,75.24,4,0,train,1
+733OhaXQIHY7BKtY3vnSkn,How You Get The Girl (Taylor's Version),Taylor Swift,1989 (Taylor's Version) [Deluxe],10/27/23,247533,59,733OhaXQIHY7BKtY3vnSkn,0.761,0.67,5,-5.956,1,0.0537,0.00198,1.08e-05,0.0873,0.519,120.014,4,3,train,0
+7hZuICN5eaCuQyp443RCt6,Dear John,Taylor Swift,Speak Now,10/25/10,403920,44,7hZuICN5eaCuQyp443RCt6,0.589,0.47,4,-5.32,1,0.028,0.166,1.45e-06,0.112,0.102,119.386,3,2,train,0
+49HIwnGgaZ6TPrVkGlV9zp,Forever and a Day,Benson Boone,Fireworks & Rollerblades,4/5/24,225234,39,49HIwnGgaZ6TPrVkGlV9zp,0.436,0.467,6,-6.656,1,0.0461,0.081,0,0.151,0.301,80.053,4,0,train,1
+0mBKv9DkYfQHjdMcw2jdyI,Chunky,Bruno Mars,24K Magic,11/17/16,186973,69,0mBKv9DkYfQHjdMcw2jdyI,0.571,0.539,5,-4.446,0,0.116,0.0208,0,0.125,0.727,202.103,4,1,train,1
+0KqlLyIGuBZWqzNwP9rypc,Last First Kiss,One Direction,Take Me Home (Expanded Edition),11/12/12,203546,60,0KqlLyIGuBZWqzNwP9rypc,0.538,0.819,4,-2.662,1,0.0435,0.0445,0,0.215,0.478,82.085,4,3,train,1
+7BRD7x5pt8Lqa1eGYC4dzj,CHIHIRO,Billie Eilish,HIT ME HARD AND SOFT,5/17/24,303440,89,7BRD7x5pt8Lqa1eGYC4dzj,0.7,0.425,7,-12.531,1,0.0529,0.144,0.879,0.083,0.521,110.015,4,5,train,1
+5oO3drDxtziYU2H1X23ZIp,Love On The Brain,Rihanna,ANTI (Deluxe),1/28/16,224000,83,5oO3drDxtziYU2H1X23ZIp,0.509,0.637,4,-4.83,0,0.047,0.0717,1.08e-05,0.0789,0.379,172.007,3,1,train,1
+6KDH3sCDRFZk71aT3a2lkY,Paperman,Christophe Beck,Paperman,1/1/12,299493,31,6KDH3sCDRFZk71aT3a2lkY,0.257,0.328,7,-15.563,1,0.0468,0.687,0.882,0.165,0.0376,99.635,3,5,train,1
+4T6HLdP6OcAtqC6tGnQelG,Everything,Michael Bubl√©,Call Me Irresponsible,4/27/07,212373,70,4T6HLdP6OcAtqC6tGnQelG,0.686,0.688,6,-4.981,0,0.0254,0.39,1.03e-06,0.0924,0.493,123.125,4,1,train,0
+1mEM6KkVMwpuAuqusCMD6m,Crisis,Joshua Bassett,Crisis / Secret / Set Me Free,12/3/21,189093,45,1mEM6KkVMwpuAuqusCMD6m,0.593,0.514,2,-6.618,1,0.0467,0.184,0,0.183,0.461,133.68,4,3,train,0
+2t3IK52qKDAR2fo5EBkCFT,Je te le donne,Vitaa,Je te le donne,8/24/18,233973,23,2t3IK52qKDAR2fo5EBkCFT,0.72,0.647,8,-6.688,0,0.159,0.457,0,0.0977,0.294,107.04,4,1,train,1
+7k5iu5vr7IEW3BdSgwY9mw,Memory Of The Wind,Naul,Principle Of My Soul,9/20/12,308186,0,7k5iu5vr7IEW3BdSgwY9mw,0.282,0.426,8,-7.405,1,0.031,0.65,0.000805,0.107,0.129,133.467,4,2,train,1
+6nhj2meaMrV4pGKk9Q65u2,Sound of Winter,Park Hyo Shin,Sound of Winter,1/1/18,411713,26,6nhj2meaMrV4pGKk9Q65u2,0.275,0.248,1,-10.831,1,0.0309,0.762,0,0.111,0.117,140.947,3,2,train,1
+4EWBhKf1fOFnyMtUzACXEc,Pluto Projector,Rex Orange County,Pony,10/25/19,267520,74,4EWBhKf1fOFnyMtUzACXEc,0.379,0.219,5,-11.196,1,0.0307,0.707,0.000691,0.118,0.188,79.786,4,0,train,0
+3AMQKTsIR0ukMOXvPkwaKz,Set Me Free,Joshua Bassett,Crisis / Secret / Set Me Free,12/3/21,242733,50,3AMQKTsIR0ukMOXvPkwaKz,0.449,0.39,2,-8.263,1,0.0363,0.256,0,0.147,0.123,130.11,4,2,train,0
+18XEJ4bMuqM0YIrZuir4xy,Good bye my love,AILEE,You are my destiny OST Part.6,8/13/14,256305,0,18XEJ4bMuqM0YIrZuir4xy,0.292,0.562,3,-5.193,1,0.031,0.788,0,0.203,0.217,139.279,4,2,train,1
+4AwJSk491AvHk2AAJReGzZ,Let Me Go,Daniel Caesar,Let Me Go,2/10/23,216524,54,4AwJSk491AvHk2AAJReGzZ,0.591,0.473,7,-8.122,0,0.0708,0.694,0.00334,0.108,0.451,152.88,4,1,train,1
+3tQeDE3Q4Pk40CvPFO0eoW,The Curse - Fp Version,Diary Of Dreams,Freak Perfume,6/3/02,334840,25,3tQeDE3Q4Pk40CvPFO0eoW,0.58,0.888,1,-7.435,1,0.0466,0.0261,0.347,0.0803,0.668,99.988,4,3,train,1
+0SuG9kyzGRpDqrCWtgD6Lq,Give Me Love,Ed Sheeran,+,9/9/11,526386,68,0SuG9kyzGRpDqrCWtgD6Lq,0.526,0.328,1,-9.864,1,0.0461,0.694,0,0.112,0.11,116.068,4,2,train,1
+0kN8xEmgMW9mh7UmDYHlJP,Versace on the Floor,Bruno Mars,24K Magic,11/17/16,261240,79,0kN8xEmgMW9mh7UmDYHlJP,0.578,0.574,2,-6.209,1,0.0454,0.196,0,0.083,0.301,174.152,4,3,train,1
+1CsMKhwEmNnmvHUuO5nryA,SKINNY,Billie Eilish,HIT ME HARD AND SOFT,5/17/24,219733,80,1CsMKhwEmNnmvHUuO5nryA,0.251,0.252,9,-14.478,1,0.0375,0.693,0.00706,0.0968,0.0395,69.988,4,0,train,0
+5GUYJTQap5F3RDQiCOJhrS,Self Control,Frank Ocean,Blonde,8/20/16,249667,76,5GUYJTQap5F3RDQiCOJhrS,0.581,0.21,8,-10.426,1,0.0321,0.768,0,0.369,0.452,80.099,4,0,train,1
+6Vh03bkEfXqekWp7Y1UBRb,Live While We're Young,One Direction,Take Me Home (Expanded Edition),11/12/12,200213,70,6Vh03bkEfXqekWp7Y1UBRb,0.663,0.857,2,-2.16,1,0.0544,0.0542,0,0.144,0.931,126.039,4,3,train,0
+3IPJg1sdqLj12kFIndaonN,No Hay Nadie M√°s,Sebastian Yatra,MANTRA,5/18/18,199733,73,3IPJg1sdqLj12kFIndaonN,0.695,0.379,6,-9.147,1,0.034,0.858,0,0.106,0.805,105.057,4,3,train,1
+1boXOL0ua7N2iCOUVI1p9F,Japanese Denim,Daniel Caesar,Get You - Single,10/21/16,270846,76,1boXOL0ua7N2iCOUVI1p9F,0.707,0.238,3,-8.818,1,0.0379,0.0905,2.42e-06,0.0842,0.345,124.156,3,2,train,1
+1LLUoftvmTjVNBHZoQyveF,THE DINER,Billie Eilish,HIT ME HARD AND SOFT,5/17/24,186346,80,1LLUoftvmTjVNBHZoQyveF,0.857,0.386,1,-9.761,1,0.168,0.243,0.0931,0.111,0.661,125.017,4,1,train,0
+32OlwWuMpZ6b0aN2RZOeMS,Uptown Funk (feat. Bruno Mars),Mark Ronson,Uptown Special,1/12/15,269666,82,32OlwWuMpZ6b0aN2RZOeMS,0.856,0.609,0,-7.223,1,0.0824,0.00801,8.15e-05,0.0344,0.928,114.988,4,3,train,1
+5ONbCAFFnAJ0YGClEeddcU,Patience,The Lumineers,Cleopatra,4/8/16,97051,22,5ONbCAFFnAJ0YGClEeddcU,0.476,0.236,4,-16.991,1,0.0456,0.973,0.922,0.108,0.0984,138.456,3,5,train,1
+0GuVQkXvtQuL6ek7nquHEN,Don't Get Around Much Anymore,"Harry Connick, Jr.",When Harry Met Sally... Music From The Motion Picture,7/25/89,261200,32,0GuVQkXvtQuL6ek7nquHEN,0.597,0.0743,4,-16.807,1,0.0465,0.79,0,0.125,0.341,120.617,4,0,train,1
+6yWUojjtn6IMmZEgHyfblf,Ï†úÎ∞ú,KIM BUMSOO,ÏÑúÎ∞îÏù¥Î≤å ÎÇòÎäî Í∞ÄÏàòÎã§ Í≤ΩÏó∞ 2 - ÏÑúÎ°úÏùò ÎÖ∏Îûò Î∞îÍøî Î∂ÄÎ•¥Í∏∞,3/27/11,281959,0,6yWUojjtn6IMmZEgHyfblf,0.388,0.289,0,-7.394,0,0.0386,0.593,0,0.15,0.193,122.522,4,2,train,0
+161DnLWsx1i3u1JT05lzqU,Talking to the Moon,Bruno Mars,Doo-Wops & Hooligans,5/11/10,217866,83,161DnLWsx1i3u1JT05lzqU,0.498,0.59,1,-4.721,0,0.032,0.511,0,0.107,0.0784,145.867,4,2,train,1
+6BOgMI1pVONpiu2xkpMW2i,Consider the Lilies,Roger Hoffman,Consider the Lilies,5/6/03,331400,0,6BOgMI1pVONpiu2xkpMW2i,0.0815,0.205,10,-21.149,1,0.042,0.983,0.839,0.172,0.0556,84.003,4,5,train,1
+0Gl5s8IhMmQE5YQwM8Qx1J,Never Enough,Loren Allred,The Greatest Showman (Original Motion Picture Soundtrack),12/8/17,207786,72,0Gl5s8IhMmQE5YQwM8Qx1J,0.277,0.394,8,-8.903,1,0.0336,0.423,0,0.0952,0.227,86.777,3,0,train,1
+276zciJ7Fg7Jk6Ta6QuLkp,Come Down,Anderson .Paak,Malibu,1/15/16,169726,62,276zciJ7Fg7Jk6Ta6QuLkp,0.841,0.898,8,-7.135,1,0.104,0.271,0.0151,0.304,0.931,98.401,4,3,train,0
+3I09LQbHS3NSU46Ly3tPpR,Feeling Good,Michael Bubl√©,It's Time,2/7/05,237333,66,3I09LQbHS3NSU46Ly3tPpR,0.535,0.548,1,-6.51,1,0.037,0.533,1.48e-06,0.123,0.477,115.144,3,2,train,1
+5JCoSi02qi3jJeHdZXMmR8,favorite crime,Olivia Rodrigo,SOUR,5/21/21,152666,82,5JCoSi02qi3jJeHdZXMmR8,0.369,0.272,9,-10.497,1,0.0364,0.866,0,0.147,0.218,172.929,4,2,train,1
+6ZuahEctZD6w75peme58hm,Wonder,Shawn Mendes,Wonder,12/4/20,172692,68,6ZuahEctZD6w75peme58hm,0.442,0.631,1,-5.096,0,0.05,0.136,2.29e-05,0.133,0.129,139.774,4,1,train,0

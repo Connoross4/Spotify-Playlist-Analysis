@@ -1,0 +1,65 @@
+id,name,artist,album,release_date,duration_ms,popularity,track_id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,cluster_label,split
+5ld8E3DVBXCCWQ54yrkWVp,305,Shawn Mendes,Wonder,2020-12-04,189072,54,5ld8E3DVBXCCWQ54yrkWVp,0.562,0.869,6,-5.38,1,0.058,0.205,0.0293,0.122,0.928,164.936,4,3,hidden
+4XwGrhiOTz0FapbeOdtCpN,Mi Amor,Daniel Pemberton,Spider-Man: Into the Spider-Verse (Original Score),2018-12-17,79553,51,4XwGrhiOTz0FapbeOdtCpN,0.0,0.0471,2,-27.968,0,0.0,0.963,0.488,0.144,0.0,0.0,0,4,hidden
+22PMfvdz35fFKYnJyMn077,Marry You,Bruno Mars,Doo-Wops & Hooligans,2010-05-11,230192,74,22PMfvdz35fFKYnJyMn077,0.621,0.82,10,-4.865,1,0.0367,0.332,0.0,0.104,0.452,144.905,4,3,hidden
+3B21fRFqPLmTd9zAlK0I8A,Para Enamorarte,CNCO,Primera Cita,2016-08-26,188533,53,3B21fRFqPLmTd9zAlK0I8A,0.817,0.676,2,-4.607,1,0.0379,0.0924,0.0,0.0988,0.796,115.999,4,3,hidden
+5TVirkSwFEXF1nLJEebe2I,Beautiful,Bazzi,COSMIC,2018-04-12,178242,62,5TVirkSwFEXF1nLJEebe2I,0.666,0.677,2,-5.743,1,0.0326,0.214,0.0,0.0979,0.178,100.014,4,3,hidden
+2zSnnXvex1yMcPUn4mg27H,I Could Write a Book,"Harry Connick, Jr.",When Harry Met Sally... Music From The Motion Picture,1989-07-25,147066,48,2zSnnXvex1yMcPUn4mg27H,0.453,0.228,0,-13.907,1,0.0444,0.736,1.32e-06,0.193,0.471,127.497,4,0,hidden
+2IOFZdYYkFxEHVz1w34PoL,Cherry,Harry Styles,Fine Line,2019-12-13,259186,68,2IOFZdYYkFxEHVz1w34PoL,0.53,0.512,7,-9.261,1,0.0259,0.615,0.00453,0.129,0.411,95.946,4,0,hidden
+5mTmB6IgMzomkJvOkQ8WDV,올해 제일 잘한 일 The Best Thing I Ever Did,TWICE,"The year of ""YES""",2018-12-12,210450,0,5mTmB6IgMzomkJvOkQ8WDV,0.72,0.655,5,-3.994,1,0.0248,0.383,0.0,0.156,0.468,104.977,4,3,hidden
+285hMzLhJwHVLe9QT9qilk,Breakeven,The Script,The Script,2008-07-14,261426,78,285hMzLhJwHVLe9QT9qilk,0.63,0.696,10,-4.501,1,0.0242,0.144,0.0,0.0835,0.491,94.034,4,3,hidden
+2rm72l5pjfby1cWvPMUojI,Go the Distance,Roger Bart,Hercules (Original Motion Picture Soundtrack),1997-01-01,194160,0,2rm72l5pjfby1cWvPMUojI,0.218,0.124,9,-17.112,1,0.0326,0.88,0.00159,0.0845,0.172,86.614,4,0,hidden
+5QUIK7ZtziW8kGWo8RqopF,Now That We Don't Talk (Taylor's Version) (From The Vault),Taylor Swift,1989 (Taylor's Version) [Deluxe],2023-10-27,146436,63,5QUIK7ZtziW8kGWo8RqopF,0.8,0.509,0,-9.386,1,0.034,0.16,3.05e-05,0.0834,0.0768,109.994,4,3,hidden
+5Ohxk2dO5COHF1krpoPigN,Sign of the Times,Harry Styles,Harry Styles,2017-05-12,340706,80,5Ohxk2dO5COHF1krpoPigN,0.516,0.595,5,-4.63,1,0.0313,0.0275,0.0,0.109,0.222,119.972,4,3,hidden
+2ODCaqPXjIELP6Wjrg6h53,Love at First Sight,Michael Bublé,Totally Bublé,2003-09-09,198933,23,2ODCaqPXjIELP6Wjrg6h53,0.311,0.162,10,-14.119,1,0.0303,0.886,1.84e-05,0.109,0.168,173.523,3,2,hidden
+69rSEDWuvLS6yyNcESulCc,Just Friends,JORDY,Just Friends,2018-10-26,189631,3,69rSEDWuvLS6yyNcESulCc,0.679,0.525,7,-7.015,1,0.0804,0.054,0.0,0.438,0.42,95.091,4,3,hidden
+2UVrIJBJVRPN9UgzShCJ5c,"I Think I Kinda, You Know - Duet",Olivia Rodrigo,"I Think I Kinda, You Know (From ""High School Musical: The Musical: The Series"")",2019-11-08,172253,53,2UVrIJBJVRPN9UgzShCJ5c,0.781,0.463,0,-7.662,1,0.0861,0.47,0.0,0.0961,0.506,129.131,4,3,hidden
+7baT4xndV4HMR4fwOdl8vw,Imposter,Grant Ganzer,Imposter,2022-08-12,121463,26,7baT4xndV4HMR4fwOdl8vw,0.58,0.534,4,-7.181,0,0.237,0.227,0.0,0.201,0.69,81.415,4,1,hidden
+4mj63a9c899Cs5l8gwuC0e,인연,Sohyang,나는 가수다 2 2012 가왕전 4강전,2012-12-16,267656,0,4mj63a9c899Cs5l8gwuC0e,0.324,0.515,8,-3.23,0,0.033,0.757,2.89e-05,0.727,0.311,140.097,4,2,hidden
+7hs0pXWvIkYEFeQYfUa42B,"Waloyo Yamoni - ""We Overcome the Wind""",Christopher Tin,The Drop That Contained the Sea,2014-05-08,733306,46,7hs0pXWvIkYEFeQYfUa42B,0.269,0.18,7,-12.932,0,0.0363,0.888,0.00583,0.0604,0.0782,136.055,4,2,hidden
+1daDRI9ahBonbWD8YcxOIB,Angels Like You,Miley Cyrus,Plastic Hearts,2020-11-27,196453,81,1daDRI9ahBonbWD8YcxOIB,0.672,0.642,5,-4.035,1,0.0313,0.0981,0.0,0.1,0.494,121.981,4,3,hidden
+22ZcJxQkzIL6EU692kAFWY,cowboy in LA,LANY,mama's boy,2020-10-02,213800,58,22ZcJxQkzIL6EU692kAFWY,0.624,0.393,8,-8.916,1,0.0333,0.407,0.0,0.118,0.728,177.963,4,3,hidden
+5WHnE8MsLFHqSUwecrs7WO,Bésame Mucho,Andrea Bocelli,Amor (Edición Especial En Español),2006-01-01,241232,61,5WHnE8MsLFHqSUwecrs7WO,0.521,0.502,5,-8.521,0,0.0287,0.886,0.02,0.188,0.378,95.028,4,0,hidden
+4G92yYrUs0cvY7G41YRI0z,Jealous,Labrinth,Jealous - EP,2014-11-23,287693,70,4G92yYrUs0cvY7G41YRI0z,0.439,0.153,1,-8.95,1,0.0479,0.874,0.0,0.107,0.104,116.76,3,2,hidden
+4lt4QTuoYOEEOhrNDZJ1o8,Room Shaker,AILEE,butterFLY,2019-07-02,195026,34,4lt4QTuoYOEEOhrNDZJ1o8,0.697,0.897,11,-3.628,0,0.136,0.0323,0.0,0.138,0.736,140.03,4,1,hidden
+11IXRdEjiH0KL8nh4G1j7d,Now We Are Free,Hans Zimmer,Gladiator - Music From The Motion Picture,2000-04-25,254293,54,11IXRdEjiH0KL8nh4G1j7d,0.339,0.219,9,-18.595,1,0.0336,0.578,0.101,0.104,0.0387,138.091,4,2,hidden
+5wANPM4fQCJwkGd4rN57mH,drivers license,Olivia Rodrigo,SOUR,2021-05-21,242013,83,5wANPM4fQCJwkGd4rN57mH,0.561,0.431,10,-8.81,1,0.0578,0.768,1.42e-05,0.106,0.137,143.875,4,2,hidden
+2wCRJwiL1WSrW0Dwfco7Nj,Know Who You Are,Auli'i Cravalho,Moana - Original Motion Picture Soundtrack/Deluxe Edition,2016-11-18,72626,60,2wCRJwiL1WSrW0Dwfco7Nj,0.16,0.145,11,-20.495,0,0.0359,0.941,0.0919,0.103,0.0946,173.443,1,4,hidden
+4My8w8AA1JpG6E5SiAPvJL,Kiss You,One Direction,Take Me Home (Expanded Edition),2012-11-12,182866,70,4My8w8AA1JpG6E5SiAPvJL,0.637,0.93,4,-2.632,1,0.0511,0.0177,0.0,0.452,0.886,90.014,4,3,hidden
+0RUGuh2uSNFJpGMSsD1F5C,It Will Rain,Bruno Mars,The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack),2011-11-04,257720,71,0RUGuh2uSNFJpGMSsD1F5C,0.576,0.835,2,-6.826,1,0.0486,0.337,0.0,0.082,0.476,150.017,4,3,hidden
+1Vk4yRsz0iBzDiZEoFMQyv,Mia & Sebastian’s Theme,Justin Hurwitz,La La Land (Original Motion Picture Soundtrack),2016-12-09,98040,68,1Vk4yRsz0iBzDiZEoFMQyv,0.476,0.192,9,-15.753,1,0.064,0.976,0.928,0.119,0.114,116.542,3,5,hidden
+0TxSk5fpK01cBLV9ePqcE6,She's In The Rain,The Rose,Dawn,2018-10-04,237576,0,0TxSk5fpK01cBLV9ePqcE6,0.36,0.533,3,-4.394,1,0.0302,0.375,0.0,0.0768,0.421,92.854,4,0,hidden
+6ua4ZcCoSABREsczFvGLI6,'O Sole Mio - Live,Luciano Pavarotti,Pavarotti & Friends 2,1995-01-01,191506,45,6ua4ZcCoSABREsczFvGLI6,0.297,0.264,8,-12.537,1,0.0387,0.943,1.4e-05,0.7,0.247,62.074,4,0,hidden
+1qEmFfgcLObUfQm0j1W2CK,Late Night Talking,Harry Styles,Harry's House,2022-05-20,177954,77,1qEmFfgcLObUfQm0j1W2CK,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,0.901,114.996,4,3,hidden
+73CMRj62VK8nUS4ezD2wvi,Set Fire to the Rain,Adele,21,2011-01-24,242973,78,73CMRj62VK8nUS4ezD2wvi,0.603,0.67,2,-3.882,0,0.0249,0.00408,1.68e-06,0.112,0.446,107.993,4,1,hidden
+6dOtVTDdiauQNBQEDOtlAB,BIRDS OF A FEATHER,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,210373,98,6dOtVTDdiauQNBQEDOtlAB,0.747,0.507,2,-10.171,1,0.0358,0.2,0.0608,0.117,0.438,104.978,4,3,hidden
+02O8hDaIJPEUHh9XEj0u76,Back For You,One Direction,Take Me Home (Expanded Edition),2012-11-12,178440,53,02O8hDaIJPEUHh9XEj0u76,0.569,0.911,2,-2.705,1,0.0772,0.0194,0.0,0.0925,0.51,160.054,4,3,hidden
+61SwOvGpjoANrBOVgBZvMi,SHE SAID HE SAID SHE SAID,Joshua Bassett,SHE SAID HE SAID SHE SAID,2022-10-13,157325,44,61SwOvGpjoANrBOVgBZvMi,0.668,0.678,11,-7.655,0,0.0425,0.228,0.0,0.591,0.587,104.971,4,1,hidden
+0qCcqa0gYjW8rerrC10yun,Better Alone,Benson Boone,Better Alone,2022-07-22,209895,57,0qCcqa0gYjW8rerrC10yun,0.504,0.47,7,-6.105,1,0.0383,0.49,0.0,0.101,0.184,126.039,4,2,hidden
+4qzBepJAKtYu4T1GDtBZZc,"눈,코,입 (Eyes, Nose, Lips)",TAEYANG,RISE,2014-06-13,229989,0,4qzBepJAKtYu4T1GDtBZZc,0.631,0.516,0,-5.759,1,0.0378,0.738,0.0,0.264,0.254,143.777,4,2,hidden
+46bzMOnJ1anlTrDCGWH30H,Big Dreams,Fernando Velázquez,A Monster Calls (Original Motion Picture Soundtrack),2016-12-09,95280,53,46bzMOnJ1anlTrDCGWH30H,0.178,0.00505,3,-32.978,1,0.0366,0.993,0.821,0.0844,0.0684,136.546,4,5,hidden
+05TOt5Vz4StdjMpEdFPlvB,All I Ask,Adele,25,2015-11-20,271800,69,05TOt5Vz4StdjMpEdFPlvB,0.591,0.28,4,-5.494,1,0.0283,0.889,0.0,0.124,0.348,141.916,4,2,hidden
+6qj02zSeEJGWZ4c0dn5QzJ,Boyfriends,Harry Styles,Harry's House,2022-05-20,194543,63,6qj02zSeEJGWZ4c0dn5QzJ,0.417,0.202,0,-10.976,1,0.0357,0.935,0.0,0.108,0.323,118.029,4,0,hidden
+6fxVffaTuwjgEk5h9QyRjy,Photograph,Ed Sheeran,x - Wembley Edition,2013,258986,67,6fxVffaTuwjgEk5h9QyRjy,0.614,0.379,4,-10.48,1,0.0476,0.607,0.000464,0.0986,0.201,107.989,4,2,hidden
+5xXqyjLicvEpch72qEryFT,Speak Now (Taylor's Version),Taylor Swift,Speak Now (Taylor's Version),2023-07-07,242473,67,5xXqyjLicvEpch72qEryFT,0.734,0.686,7,-2.926,1,0.0349,0.225,0.0,0.136,0.598,119.002,4,3,hidden
+6IG3sQ8s9nfk6TUlVzRhbN,Is It Over Now? (Taylor's Version) (From The Vault),Taylor Swift,1989 (Taylor's Version) [Deluxe],2023-10-27,229477,64,6IG3sQ8s9nfk6TUlVzRhbN,0.599,0.651,0,-7.343,1,0.035,0.0486,0.0,0.126,0.153,100.001,4,3,hidden
+3UoULw70kMsiVXxW0L3A33,pov,Ariana Grande,Positions,2020-10-30,201882,71,3UoULw70kMsiVXxW0L3A33,0.487,0.534,0,-5.664,0,0.0555,0.36,0.0,0.1,0.173,131.798,4,1,hidden
+6VzcQuzTNTMFnJ6rBSaLH9,Fine Line,Harry Styles,Fine Line,2019-12-13,377960,76,6VzcQuzTNTMFnJ6rBSaLH9,0.306,0.347,2,-8.5,1,0.0334,0.172,0.00013,0.0485,0.0511,120.996,4,2,hidden
+38UEe6tvR5IufCUwFa7tXB,The Long Song,Murray Gold,Doctor Who - Series 7 (Original Television Soundtrack),2013-11-05,218666,0,38UEe6tvR5IufCUwFa7tXB,0.378,0.497,9,-12.019,1,0.0406,0.758,0.92,0.186,0.159,119.962,4,5,hidden
+07oO1U722crtVcavi6frX6,"Double Life - From ""Despicable Me 4""",Pharrell Williams,"Double Life (From ""Despicable Me 4"")",2024-06-14,190782,81,07oO1U722crtVcavi6frX6,0.851,0.652,8,-4.333,1,0.0367,0.0317,0.0,0.0936,0.696,119.944,4,3,hidden
+4VnDmjYCZkyeqeb0NIKqdA,Can You Hear The Music,Ludwig Göransson,Oppenheimer (Original Motion Picture Soundtrack),2023-07-21,110160,70,4VnDmjYCZkyeqeb0NIKqdA,0.19,0.435,4,-12.456,0,0.0334,0.233,0.938,0.1,0.0643,138.515,4,5,hidden
+3rrv1sQftMszpL7vxLSvX2,Berenstein,The Band CAMINO,Berenstein,2017-12-15,276685,43,3rrv1sQftMszpL7vxLSvX2,0.418,0.72,4,-5.934,1,0.0338,0.0133,0.000108,0.213,0.219,134.945,4,3,hidden
+32HwMdkZuUmHg9uznhs9xM,Loved You First,One Direction,Take Me Home (Expanded Edition),2012-11-12,184306,54,32HwMdkZuUmHg9uznhs9xM,0.697,0.894,2,-4.891,1,0.0599,0.0543,0.0,0.631,0.795,124.016,4,3,hidden
+3ym8ajVmKm6Fybgov3WBI5,Let Me Go,Daniel Caesar,NEVER ENOUGH,2023-04-07,216524,69,3ym8ajVmKm6Fybgov3WBI5,0.591,0.473,7,-8.122,0,0.0708,0.694,0.00334,0.108,0.451,152.88,4,1,hidden
+1QELw50Dl95LusF6uOkDqk,La vie en rose (feat. Cécile McLorin Salvant),Michael Bublé,love (Deluxe Edition),2018-11-16,229963,52,1QELw50Dl95LusF6uOkDqk,0.459,0.267,0,-8.948,1,0.0294,0.807,0.0,0.119,0.342,63.378,4,0,hidden
+2tGvwE8GcFKwNdAXMnlbfl,happier,Olivia Rodrigo,SOUR,2021-05-21,175933,82,2tGvwE8GcFKwNdAXMnlbfl,0.395,0.443,6,-9.72,1,0.133,0.765,9.67e-06,0.0839,0.338,168.924,3,2,hidden
+3aUD2nXnCYiGd9V1UhfyRz,Stranger,Lauv,All 4 Nothing,2022-08-05,164688,52,3aUD2nXnCYiGd9V1UhfyRz,0.65,0.538,5,-7.511,1,0.0464,0.128,4.95e-06,0.127,0.501,153.179,4,3,hidden
+7neOIVKDsLaUXV5y84jGuY,I Don't Love You,Urban Zakapa,STILL,2016-05-27,254924,51,7neOIVKDsLaUXV5y84jGuY,0.35,0.348,4,-6.156,1,0.0317,0.805,4.48e-06,0.102,0.274,146.603,4,2,hidden
+5zEvD1Tapbd4RAkYmpeTap,The Moon Represents My Heart - 月亮代表我的心,Libera,The Moon Represents My Heart - 月亮代表我的心,2017-10-20,198974,35,5zEvD1Tapbd4RAkYmpeTap,0.19,0.221,3,-14.667,1,0.0416,0.984,0.269,0.0903,0.0622,79.487,4,0,hidden
+7D49Iig0avHre9RFSUMkd2,I Lived,OneRepublic,Native,2014-01-01,234546,60,7D49Iig0avHre9RFSUMkd2,0.598,0.854,9,-5.429,1,0.0436,0.0746,0.0,0.278,0.311,119.976,4,3,hidden
+7BqBn9nzAq8spo5e7cZ0dJ,Just the Way You Are,Bruno Mars,Doo-Wops & Hooligans,2010-05-11,220734,84,7BqBn9nzAq8spo5e7cZ0dJ,0.635,0.841,5,-5.379,1,0.0422,0.0134,0.0,0.0622,0.424,109.021,4,3,hidden
+2YOGCTiPJWMhZRdeadFj8G,this is what autumn feels like,JVKE,this is what autumn feels like,2023-09-12,219909,65,2YOGCTiPJWMhZRdeadFj8G,0.238,0.441,3,-7.42,1,0.0364,0.912,0.433,0.167,0.164,79.445,4,0,hidden
+2G0k5HoKVW3iPC1eF7Ykb7,Nadie,Matisse,Nadie,2020-05-15,198205,0,2G0k5HoKVW3iPC1eF7Ykb7,0.542,0.448,11,-6.715,1,0.0336,0.588,0.0,0.089,0.189,119.83,3,0,hidden
+35uZSnpGVvHbnPMbIxDjLB,Desperado,Celtic Thunder,The Show,2007,215586,0,35uZSnpGVvHbnPMbIxDjLB,0.366,0.165,7,-12.686,1,0.0355,0.935,0.0,0.157,0.321,118.143,4,0,hidden
+06WgOCf0LV2h4keYXDRnuh,Clean,Taylor Swift,1989,2014-10-27,271000,41,06WgOCf0LV2h4keYXDRnuh,0.81,0.379,4,-7.771,1,0.0349,0.241,0.0,0.113,0.22,103.981,4,3,hidden
+0hkppOIXAfknRGYr34sLgy,I Will Always Return,Bryan Adams,Spirit: Stallion Of The Cimarron (Music From The Original Motion Picture),2002-05-04,238440,50,0hkppOIXAfknRGYr34sLgy,0.447,0.555,10,-6.951,1,0.0262,0.0811,0.0,0.157,0.219,142.891,3,2,hidden

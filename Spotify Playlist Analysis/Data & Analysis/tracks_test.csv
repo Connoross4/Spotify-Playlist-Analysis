@@ -1,0 +1,65 @@
+id,name,artist,album,release_date,duration_ms,popularity,track_id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,cluster_label,split
+0S7XIu0dn63ayGxjefd5It,Forbidden Friendship,John Powell,How To Train Your Dragon - Music From The Motion Picture,2010-01-01,251093,54,0S7XIu0dn63ayGxjefd5It,0.279,0.295,6,-15.135,1,0.035,0.859,0.94,0.547,0.381,129.169,4,5,test
+6WzuONb7HfNLr3fjtCVFCm,Fantasy,Mariah Carey,Free Guy (Music from the Motion Picture),2021-08-11,243880,0,6WzuONb7HfNLr3fjtCVFCm,0.636,0.801,7,-5.273,1,0.0435,0.0992,0.0,0.101,0.705,102.349,4,3,test
+4A9NGq1VZI3cwalNWZvLVR,Flight into Darkness,Kevin Kiner,Star Wars: Tales of the Jedi (Original Soundtrack),2022-10-26,243724,20,4A9NGq1VZI3cwalNWZvLVR,0.0958,0.252,7,-15.348,1,0.0348,0.273,0.928,0.11,0.038,67.211,3,5,test
+5T7ZFtCcOgkpjxcuaeZbw0,Best Song Ever,One Direction,Midnight Memories (Deluxe),2013-11-25,200106,74,5T7ZFtCcOgkpjxcuaeZbw0,0.652,0.877,1,-2.986,1,0.0465,0.0227,0.0,0.0789,0.486,118.491,4,3,test
+4IbOPxstIn2KbdlWf5xRZ0,Georgia on My Mind,Michael Bublé,Crazy Love,2009-10-06,188226,49,4IbOPxstIn2KbdlWf5xRZ0,0.269,0.239,0,-10.522,0,0.03,0.842,0.00194,0.0938,0.162,176.916,3,2,test
+5LLYU3mbGuTgc78V8tdh9B,Be Someone,Benson Boone,Fireworks & Rollerblades,2024-04-05,224862,40,5LLYU3mbGuTgc78V8tdh9B,0.679,0.819,9,-4.577,1,0.0426,0.00822,0.0,0.0754,0.615,135.031,4,3,test
+2R4O7MgIrN35QXnyLKMFVl,Mrs.,Leon Bridges,Good Thing,2018-05-04,242520,50,2R4O7MgIrN35QXnyLKMFVl,0.706,0.354,6,-9.592,1,0.29,0.479,0.0,0.0734,0.376,119.793,3,1,test
+27exgla7YBw9DUNNcTIpjy,Wildest Dreams (Taylor's Version),Taylor Swift,1989 (Taylor's Version) [Deluxe],2023-10-27,220433,60,27exgla7YBw9DUNNcTIpjy,0.587,0.663,8,-7.439,1,0.0598,0.0348,9.95e-05,0.0971,0.539,139.993,4,3,test
+0JWA4NaSOa1mZfLyNvZLQW,Pessimist,Lithe,Pessimist,2020-05-15,140224,65,0JWA4NaSOa1mZfLyNvZLQW,0.69,0.197,4,-12.801,0,0.078,0.366,0.000139,0.128,0.269,177.985,3,1,test
+7DpUoxGSdlDHfqCYj0otzU,BITTERSUITE,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,298440,79,7DpUoxGSdlDHfqCYj0otzU,0.521,0.254,9,-14.409,0,0.0399,0.815,0.884,0.114,0.153,125.021,4,5,test
+3PRqiN41BIPkeai16CWjqy,7UP,Boy In Space,7UP,2019-05-30,203554,48,3PRqiN41BIPkeai16CWjqy,0.618,0.47,0,-7.379,1,0.0271,0.0169,0.0,0.111,0.228,135.034,4,3,test
+3aLbDGVIbZHUDjQXjfrvBP,The City's Yours,Jamie Foxx,Annie (Original Motion Picture Soundtrack),2014-11-17,192133,61,3aLbDGVIbZHUDjQXjfrvBP,0.532,0.807,1,-4.281,1,0.0527,0.083,0.0,0.123,0.335,166.925,4,3,test
+1obtU03RXYzuNnzGe31arn,LOVE DAY,YANG YO SEOP,`A CUBE` FOR SEASON # GREEN,2012-03-14,237165,32,1obtU03RXYzuNnzGe31arn,0.709,0.801,0,-3.756,1,0.0627,0.436,0.0,0.0835,0.422,120.031,4,3,test
+6l0knFRwTeQgJ2yHHqwKmt,Cold,Boy In Space,Cold,2019-08-08,203538,52,6l0knFRwTeQgJ2yHHqwKmt,0.711,0.412,9,-6.827,1,0.0445,0.184,0.0,0.0546,0.186,130.013,4,3,test
+5nW4z3pfZgJAJ2QTCz9AIE,A&W,Lana Del Rey,Did you know that there's a tunnel under Ocean Blvd,2023-03-24,433916,68,5nW4z3pfZgJAJ2QTCz9AIE,0.429,0.239,10,-14.696,1,0.11,0.632,0.389,0.116,0.137,157.112,4,2,test
+6ft9PAgNOjmZ2kFVP7LGqb,Can't Take My Eyes off You,Frankie Valli,The Very Best of Frankie Valli & The 4 Seasons,2003-01-14,203240,68,6ft9PAgNOjmZ2kFVP7LGqb,0.575,0.764,4,-7.448,1,0.0746,0.566,1.07e-05,0.0692,0.536,123.821,4,3,test
+5Hkk4YCNakpuOpbZQo67fE,Wild Flower,Park Hyo Shin,I am A Dreamer,2016-10-03,314254,0,5Hkk4YCNakpuOpbZQo67fE,0.281,0.323,8,-9.145,1,0.031,0.722,0.0,0.12,0.247,134.824,3,2,test
+1LLXZFeAHK9R4xUramtUKw,London Boy,Taylor Swift,Lover,2019-08-23,190240,72,1LLXZFeAHK9R4xUramtUKw,0.695,0.71,1,-6.639,1,0.05,0.0246,0.000104,0.133,0.557,157.925,4,3,test
+1fiSki9Yy5lekUUpV4mByo,i'm not okay,JVKE,this is what ____ feels like (Vol. 1-4),2022-09-23,145189,55,1fiSki9Yy5lekUUpV4mByo,0.434,0.467,1,-5.926,0,0.0434,0.849,1.42e-05,0.143,0.141,128.504,3,2,test
+1hZk9dktp4yRFTm0TrycuH,If I Lose Myself - Alesso vs OneRepublic,OneRepublic,Native,2014-01-01,214813,59,1hZk9dktp4yRFTm0TrycuH,0.522,0.782,2,-4.846,1,0.0412,0.216,1.08e-05,0.133,0.169,125.994,4,3,test
+0STK94RxUulYqWzwFlyAb5,Sober,Demi Lovato,Sober,2018-06-21,197893,59,0STK94RxUulYqWzwFlyAb5,0.397,0.303,1,-10.413,1,0.11,0.798,4.16e-06,0.0824,0.17,170.22,3,2,test
+5LYMamLv12UPbemOaTPyeV,Music For a Sushi Restaurant,Harry Styles,Harry's House,2022-05-20,193813,69,5LYMamLv12UPbemOaTPyeV,0.72,0.715,11,-4.652,1,0.04,0.258,0.0568,0.107,0.357,107.041,4,3,test
+0B0tYbVp7pDQAqKDhgMeaL,Too Good to Say Goodbye,Bruno Mars,24K Magic,2016-11-17,281826,69,0B0tYbVp7pDQAqKDhgMeaL,0.587,0.63,2,-6.054,1,0.0311,0.0389,0.0,0.35,0.433,76.97,4,3,test
+2afCBiru10AFckfOa49wIa,You & I,One Direction,Midnight Memories (Deluxe),2013-11-25,237933,74,2afCBiru10AFckfOa49wIa,0.574,0.329,1,-6.829,1,0.0274,0.22,0.0,0.0986,0.356,130.993,4,3,test
+3OD3UsYexvqEH6UHEFHrZu,Beautiful Things,Benson Boone,Fireworks & Rollerblades,2024-04-05,180304,39,3OD3UsYexvqEH6UHEFHrZu,0.467,0.471,10,-5.692,1,0.0701,0.151,0.0,0.14,0.222,105.09,3,0,test
+732QOzrBUFi0gGWNU9gB7d,Who Am I?,Jamie Foxx,Annie (Original Motion Picture Soundtrack),2014-11-17,200080,46,732QOzrBUFi0gGWNU9gB7d,0.251,0.333,10,-9.137,1,0.0336,0.411,1.98e-06,0.11,0.219,76.335,4,0,test
+5RoIXwyTCdyUjpMMkk4uPd,Sweet Disposition,The Temper Trap,Conditions,2009-03-24,230800,31,5RoIXwyTCdyUjpMMkk4uPd,0.531,0.821,2,-6.812,1,0.0439,0.0701,0.171,0.124,0.34,129.139,4,3,test
+0T5iIrXA4p5GsubkhuBIKV,Until I Found You,Stephen Sanchez,Until I Found You,2021-09-01,177720,76,0T5iIrXA4p5GsubkhuBIKV,0.539,0.508,10,-6.05,1,0.0288,0.727,0.0,0.174,0.227,101.358,3,0,test
+1I6pKIyaBp4OebTGLJpCCC,Perm,Bruno Mars,24K Magic,2016-11-17,210053,64,1I6pKIyaBp4OebTGLJpCCC,0.853,0.871,8,-3.715,1,0.0851,0.0145,6.84e-05,0.198,0.863,124.021,4,3,test
+0rzaRSujxA0bKyjJl6vHYq,Satellite,Harry Styles,Harry's House,2022-05-20,218577,72,0rzaRSujxA0bKyjJl6vHYq,0.576,0.457,0,-6.473,1,0.0304,0.143,3.05e-05,0.0917,0.301,138.984,4,3,test
+6ofMKJjMpfDEb48JYEAgjX,Husavik (My Hometown),Will Ferrell,Eurovision Song Contest: The Story of Fire Saga (Music from the Netflix Film),2020-06-26,202286,53,6ofMKJjMpfDEb48JYEAgjX,0.509,0.46,6,-8.474,1,0.0335,0.523,0.0,0.112,0.291,133.016,4,2,test
+2OyX69J0H3ZaO3irKbcemY,Blank,BEN,RECIPE,2018-05-08,192593,0,2OyX69J0H3ZaO3irKbcemY,0.341,0.239,10,-8.406,1,0.0354,0.846,0.00203,0.0703,0.0756,129.55,4,0,test
+5L26cBeskObsyfEjioRdiv,Emergency Room(2021),Hwang In Wook,Emergency Room(2021),2021-05-07,243986,34,5L26cBeskObsyfEjioRdiv,0.508,0.442,5,-6.072,1,0.0291,0.704,0.0,0.119,0.173,141.982,4,2,test
+4hNSTJdBOSWiYdiMPbFjf9,Alguien Soy Yo,Enrique Iglesias,Insomniac,2007-01-01,239146,38,4hNSTJdBOSWiYdiMPbFjf9,0.655,0.552,8,-7.519,1,0.0256,0.278,0.0,0.101,0.391,83.021,4,3,test
+5rEENZmbGQXMVy1Svt9Q2x,Cry,Benson Boone,Fireworks & Rollerblades,2024-04-05,186359,40,5rEENZmbGQXMVy1Svt9Q2x,0.71,0.48,10,-5.251,1,0.0364,0.104,1.55e-05,0.0894,0.352,107.948,4,3,test
+6QWniaitONimLqysaA6cwe,This Is Where I Belong,Bryan Adams,Spirit: Stallion Of The Cimarron (Music From The Original Motion Picture),2002-05-04,141133,49,6QWniaitONimLqysaA6cwe,0.221,0.305,10,-15.491,1,0.029,0.846,9.14e-05,0.348,0.109,96.592,3,0,test
+6bcCrByBZgx8FYwuKE4Jgu,Far Longer Than Forever,"Liz Callaway, Howard McGillin, David Zippel, Lex de Azevedo, Larry Bastian, Larry Schwartz",The Swan Princess,1994-01-01,144144,47,6bcCrByBZgx8FYwuKE4Jgu,0.312,0.176,0,-18.731,1,0.0307,0.862,9.08e-06,0.129,0.199,85.936,4,0,test
+6Up545NUflOiXo8cEraH49,You Say,Lauren Daigle,Look Up Child,2018-09-07,274693,73,6Up545NUflOiXo8cEraH49,0.494,0.632,5,-6.89,1,0.0342,0.682,0.0,0.0869,0.0797,147.873,4,2,test
+6TGd66r0nlPaYm3KIoI7ET,THE GREATEST,Billie Eilish,HIT ME HARD AND SOFT,2024-05-17,293840,82,6TGd66r0nlPaYm3KIoI7ET,0.407,0.192,7,-10.99,1,0.0368,0.637,3.33e-06,0.21,0.159,128.173,4,2,test
+5lbZL5xmyJHtrrioldEyXX,All I Ever Wanted (With Queen's Reprise),Amick Byram,The Prince Of Egypt (Music From The Original Motion Picture Soundtrack),1998-02-11,171600,47,5lbZL5xmyJHtrrioldEyXX,0.255,0.229,6,-16.2,1,0.0373,0.68,0.000674,0.395,0.152,77.899,5,0,test
+5CRVwXGikmqzoRO6q7FeAg,If I Could Fly,One Direction,Made In The A.M. - Deluxe Edition,2015-11-13,230320,63,5CRVwXGikmqzoRO6q7FeAg,0.565,0.245,5,-9.132,1,0.0262,0.781,0.0,0.0998,0.307,75.055,4,0,test
+73SpzrcaHk0RQPFP73vqVR,No Time To Die,Billie Eilish,No Time To Die,2020-02-13,242265,74,73SpzrcaHk0RQPFP73vqVR,0.344,0.22,4,-13.218,0,0.0365,0.917,0.0107,0.0827,0.0522,70.895,4,0,test
+6rPO02ozF3bM7NnOV4h6s2,Despacito - Remix,Luis Fonsi,Despacito Feat. Justin Bieber (Remix),2017-04-17,228826,69,6rPO02ozF3bM7NnOV4h6s2,0.653,0.816,2,-4.353,1,0.167,0.228,0.0,0.0967,0.816,178.085,4,1,test
+6d2i9NFTSQaXIwQUSombV7,At This Moment,Michael Bublé,Crazy Love,2009-10-06,275373,37,6d2i9NFTSQaXIwQUSombV7,0.358,0.395,5,-7.493,1,0.033,0.326,8.55e-06,0.307,0.219,88.908,3,0,test
+4SwcSQIRh7M1dmzyYgCAHs,Half-Life,Duncan Sheik,Daylight,2002,233733,42,4SwcSQIRh7M1dmzyYgCAHs,0.536,0.475,5,-6.154,1,0.0287,0.543,0.0,0.174,0.299,133.879,4,2,test
+7HnkUNPrhRurdGEm9nRYFH,Death & Taxes,Daniel Caesar,Pilgrim's Paradise,2015-11-12,305081,56,7HnkUNPrhRurdGEm9nRYFH,0.448,0.328,7,-11.132,1,0.0351,0.803,9.34e-05,0.347,0.209,113.941,3,2,test
+4zKbPdCC2o8726tHh5sEJw,Always on My Mind,Michael Bublé,Call Me Irresponsible,2007-04-27,269800,54,4zKbPdCC2o8726tHh5sEJw,0.33,0.161,2,-15.495,1,0.0355,0.891,0.0191,0.101,0.13,67.398,3,0,test
+4S7ddJ34xx6ZIkQ4a1LDRm,"The Bridge Of Khazad-Dum (From ""The Lord Of The Rings"")",Eurielle,"The Bridge Of Khazad-Dum (From ""The Lord Of The Rings"")",2015-09-18,209454,0,4S7ddJ34xx6ZIkQ4a1LDRm,0.167,0.205,5,-12.822,0,0.0398,0.982,0.909,0.0965,0.0331,64.018,3,5,test
+33SNO8AaciGbNaQFkxvPrW,Kiwi,Harry Styles,Harry Styles,2017-05-12,176386,68,33SNO8AaciGbNaQFkxvPrW,0.375,0.93,2,-2.631,1,0.0561,0.00064,0.0,0.318,0.491,147.124,4,3,test
+5CZ40GBx1sQ9agT82CLQCT,traitor,Olivia Rodrigo,SOUR,2021-05-21,229226,84,5CZ40GBx1sQ9agT82CLQCT,0.38,0.339,3,-7.885,1,0.0338,0.691,0.0,0.12,0.0849,100.607,4,0,test
+7G0gBu6nLdhFDPRLc0HdDG,Mine (Taylor's Version),Taylor Swift,Speak Now (Taylor's Version),2023-07-07,231706,72,7G0gBu6nLdhFDPRLc0HdDG,0.647,0.793,7,-2.903,1,0.0363,0.00314,1.93e-06,0.174,0.5,121.101,4,3,test
+0nRuVPZx2iA3KWR4xSzryl,TALK ME DOWN,Troye Sivan,Blue Neighbourhood (Deluxe),2015-12-04,237464,45,0nRuVPZx2iA3KWR4xSzryl,0.363,0.781,6,-6.804,1,0.0739,0.148,0.000222,0.125,0.342,173.696,4,3,test
+0Rx0DJI556Ix5gBny6EWmn,Paradise,Bazzi,Soul Searching,2019-08-09,169038,68,0Rx0DJI556Ix5gBny6EWmn,0.844,0.644,11,-6.273,0,0.0479,0.0828,0.0,0.113,0.591,122.061,4,1,test
+6PJRw5icjh5FnFd7jNUmbG,The Prayer,Céline Dion,These Are Special Times,1998,268933,0,6PJRw5icjh5FnFd7jNUmbG,0.234,0.321,10,-8.513,1,0.0336,0.82,3.39e-06,0.115,0.0504,82.388,5,0,test
+6lrZiAgjWUcfuj5HHxPsZF,My way,ISU,"Money Flower, (Original Television Soundtrack)",2018-02-03,276747,0,6lrZiAgjWUcfuj5HHxPsZF,0.482,0.403,10,-7.85,1,0.0311,0.385,0.0,0.113,0.203,76.94,4,0,test
+1zwMYTA5nlNjZxYrvBB2pV,Someone Like You,Adele,21,2011-01-24,285240,78,1zwMYTA5nlNjZxYrvBB2pV,0.556,0.319,9,-8.251,1,0.0281,0.893,0.0,0.0996,0.294,135.187,4,2,test
+48f7LOHWir3VQoO06yoc95,Song About You,The Band CAMINO,The Band CAMINO,2021-09-10,158948,48,48f7LOHWir3VQoO06yoc95,0.617,0.801,8,-5.766,1,0.0336,0.0254,2.07e-06,0.105,0.426,119.003,4,3,test
+33bURv895AN4FkBvgFo2dx,Woman,Harry Styles,Harry Styles,2017-05-12,278800,62,33bURv895AN4FkBvgFo2dx,0.624,0.647,3,-4.68,0,0.0335,0.0169,0.0038,0.221,0.379,136.022,4,1,test
+6d9IiDcFxtFVIvt9pCqyGH,Sparks Fly,Taylor Swift,Speak Now,2010-10-25,260933,52,6d9IiDcFxtFVIvt9pCqyGH,0.605,0.787,5,-3.002,1,0.0308,0.0396,1.42e-06,0.163,0.374,114.987,4,3,test
+2TktkzfozZifbQhXjT6I33,Evergreen (You Didn’t Deserve Me At All),Omar Apollo,Ivory,2022-04-08,216680,75,2TktkzfozZifbQhXjT6I33,0.697,0.336,9,-10.395,1,0.0424,0.598,0.00528,0.107,0.31,82.029,3,0,test
+1nHM5nGsbpskmBnZOfxirW,"Forget Me Knots - from ""Spider-Man: No Way Home"" Soundtrack",Michael Giacchino,Spider-Man: No Way Home (Original Motion Picture Soundtrack),2021-12-17,409280,35,1nHM5nGsbpskmBnZOfxirW,0.0691,0.0614,0,-19.004,0,0.0385,0.85,0.912,0.0533,0.03,73.215,3,5,test
+0TAmnCzOtqRfvA38DDLTjj,Little Things,One Direction,Take Me Home (Expanded Edition),2012-11-12,219040,70,0TAmnCzOtqRfvA38DDLTjj,0.709,0.22,7,-11.856,1,0.0327,0.811,0.0,0.175,0.53,110.076,4,0,test
+1kRGTor0WEKB90LWOTIxfR,I Know Where I've Been,Jennifer Hudson,Hairspray LIVE! Original Soundtrack of the NBC Television Event,2016-12-02,242720,29,1kRGTor0WEKB90LWOTIxfR,0.309,0.52,10,-5.595,1,0.0377,0.672,0.0,0.165,0.297,179.481,3,2,test
+3jJ5NJ3aNWvV70Rd7hgZIH,Gotta Be You,One Direction,Up All Night,2012-05-25,244506,60,3jJ5NJ3aNWvV70Rd7hgZIH,0.495,0.583,8,-4.531,1,0.0249,0.374,0.0,0.0781,0.603,84.969,4,3,test
