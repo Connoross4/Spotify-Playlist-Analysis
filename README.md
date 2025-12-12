@@ -14,6 +14,7 @@ Merged analytic file (tracks_merged.csv) containing all features needed for mode
 Cleaned, standardized dataset ready for clustering and classification
 
 Machine Learning Pipeline
+
 <img width="500" height="400" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/f7b37284-87a8-48b5-b674-20ca8321a07c" />
 
 Unsupervised Clustering: K-Means with multiple K values (6, 9, 12)
@@ -22,10 +23,13 @@ Unsupervised Clustering: K-Means with multiple K values (6, 9, 12)
 Model Comparison: silhouette scoring + PCA visualization
 
 Supervised Classification: Logistic Regression, Decision Tree, Random Forest, Gradient Boosting
+
 <img width="500" height="300" alt="model_comparison" src="https://github.com/user-attachments/assets/b7a7127e-25bd-4fea-abf9-fd71f554ac40" />
+
 Taste Scoring: Probability-based predictions ranking songs on a 0–1 “likelihood of playlist inclusion” scale
 
 Interpretability: Feature importance, confusion matrices, ROC curves, and cross-model comparison
+
 <img width="400" height="300" alt="roc_curves" src="https://github.com/user-attachments/assets/62ce1500-a1b1-484e-9893-b23a19d82ef7" />
 
 Prototype Recommender
