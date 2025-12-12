@@ -1,91 +1,36 @@
-# Spotify Playlist Exporter
-<img width="880" height="593" alt="Screenshot 2025-11-19 at 9 16 16 PM" src="https://github.com/user-attachments/assets/057100b9-ddba-4251-aee2-a10ea1c808fe" />
+This project builds a full end-to-end data science workflow for generating personalized music recommendations using Spotify playlist data. It integrates with the Spotify API to collect track metadata and audio features, merges these into a unified dataset, and applies unsupervised and supervised machine learning to identify sonic archetypes and predict user playlist preferences.
 
-The Spotify Playlist Exporter is a Python project designed to automate the fetching, storage, and export of Spotify playlist data for analysis, backup, or migration. It seamlessly integrates with the Spotify Web API, collects essential song metadata and track IDs, stores everything in a SQLite database, and exports your data to CSV files for use in data analysis tools or personal archives.
+The final output is a prototype taste-scoring recommender system capable of ranking new tracks by their likelihood of matching a user's musical style.
 
-## Features
+Core Capabilities
+Data Retrieval & Engineering
 
-- **API Integration:** Secure authentication and robust interaction with the Spotify Web API to fetch playlist items and search for track IDs.
-- **Automated Data Fetching:** Handles playlists of any size by automating offset/limit pagination logic.
-- **Database Storage:** Saves playlist tracks and their audio features locally in a SQLite database for persistent, queryable storage.
-- **CSV Export:** Exports all playlist data to CSV files (`songs.csv`, `audio_features.csv`) for easy sharing, archiving, or import into tools like Excel and Tableau.
-- **Portfolio-Ready:** Demonstrates API integration, data persistence, and Python scripting skills.
+Automated playlist export using the Spotify Web API
 
-## Use Cases
+Retrieval of both song metadata (songs.csv) and audio features (audio_features.csv)
 
-- **Music Enthusiasts:** Back up your favorite playlists for safekeeping.
-- **Analysts:** Analyze listening trends and playlist composition.
-- **Migrators:** Move playlist data between Spotify accounts or other services.
+Merged analytic file (tracks_merged.csv) containing all features needed for modeling
 
-## Setup
+Cleaned, standardized dataset ready for clustering and classification
 
-### Prerequisites
+Machine Learning Pipeline
+<img width="500" height="400" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/f7b37284-87a8-48b5-b674-20ca8321a07c" />
 
-- Python 3.x
-- [Spotify Developer account](https://developer.spotify.com/)
-- Spotify API Client ID and Client Secret
+Unsupervised Clustering: K-Means with multiple K values (6, 9, 12)
+<img width="400" height="300" alt="pca_clusters" src="https://github.com/user-attachments/assets/bb122056-3d13-4a92-9e8a-039b96ff6998" />
 
-### Install Dependencies
+Model Comparison: silhouette scoring + PCA visualization
 
-```bash
-pip install python-dotenv requests
-```
+Supervised Classification: Logistic Regression, Decision Tree, Random Forest, Gradient Boosting
+<img width="500" height="300" alt="model_comparison" src="https://github.com/user-attachments/assets/b7a7127e-25bd-4fea-abf9-fd71f554ac40" />
+Taste Scoring: Probability-based predictions ranking songs on a 0–1 “likelihood of playlist inclusion” scale
 
-### Project Files
+Interpretability: Feature importance, confusion matrices, ROC curves, and cross-model comparison
+<img width="400" height="300" alt="roc_curves" src="https://github.com/user-attachments/assets/62ce1500-a1b1-484e-9893-b23a19d82ef7" />
 
-- `main.py`: Authenticates with Spotify, fetches playlist data, and stores it in SQLite.
-- `export_spotify_playlist.py`: Exports the database contents to CSV files.
-- `songs.csv`, `audio_features.csv`: Example output files.
-- `.env`: Store your Spotify API credentials here.
+Prototype Recommender
 
-### .env File Example
-
-```
-client_id=YOUR_SPOTIFY_CLIENT_ID
-client_secret=YOUR_SPOTIFY_CLIENT_SECRET
-```
-
-## Usage
-
-### 1. Fetch and Store Playlist Data
-
-Edit `main.py` as needed (set your target playlist ID), then run:
-
-```bash
-python main.py
-```
-
-Your playlist data will be stored in `spotify_playlist.db`.
-
-### 2. Export Data to CSV
-
-Run the exporter script:
-
-```bash
-python export_spotify_playlist.py
-```
-
-This will generate `songs.csv` and `audio_features.csv` from the database.
-
-## Example Output
-
-See the included `songs.csv` for the structure and sample data exported from a playlist.
-
-## Customization
-
-- Change the playlist ID in `main.py` to fetch different playlists.
-- Modify database schema or CSV export logic to suit your analysis needs.
-
-## Skills Demonstrated
-
-- Third-party API integration (Spotify)
-- Secure token-based authentication
-- Automated data workflows (pagination, batch processing)
-- Data persistence with SQLite
-- Data export for analysis and reporting
-
-## License
-
+A future deployment could allow users to paste a Spotify playlist link, run the pipeline, and receive a ranked list of recommended tracks that match their learned taste profile.
 MIT License
 
 ---
