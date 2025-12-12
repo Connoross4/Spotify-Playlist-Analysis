@@ -1,3 +1,5 @@
+Spotify Personalized Recommendation Pipeline
+
 This project builds a full end-to-end data science workflow for generating personalized music recommendations using Spotify playlist data. It integrates with the Spotify API to collect track metadata and audio features, merges these into a unified dataset, and applies unsupervised and supervised machine learning to identify sonic archetypes and predict user playlist preferences.
 
 The final output is a prototype taste-scoring recommender system capable of ranking new tracks by their likelihood of matching a user's musical style.
